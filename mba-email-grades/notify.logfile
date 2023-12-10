@@ -1,0 +1,12 @@
+PS E:\sureshlazaruspaul\practice-datasets\mba-email-grades> python .\notify.py
+{'Suresh Paul': ('+1234567890', 'spaul@bw.edu')}
+BUS622 grade has been posted.
+Hello All,
+
+The final grade for our course has been posted.
+Have a nice break. Happy Holidays!
+
+PS: email sent for Prof. Suresh Paul, by Python Assistant.
+
+Email sent to: spaul@bw.edu
+PS E:\sureshlazaruspaul\practice-datasets\mba-email-grades> 
