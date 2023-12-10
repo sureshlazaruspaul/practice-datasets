@@ -1,5 +1,6 @@
 def contact_list():
     return {
+        "Suresh Paul":     ("+1234567890","spaul@bw.edu"), 
         "Maher Ahmad":     ("+1234567890","mahmad21@bw.edu"), 
         "James Allen":     ("+1234567890","jaallen21@bw.edu"), 
         "Chanel Bailey":   ("+1234567890","cbailey20@bw.edu"), 
@@ -11,7 +12,6 @@ def contact_list():
         "Emily Muench":    ("+1234567890","emuench@bw.edu"), 
         "Malesha Muteto":  ("+1234567890","mmuteto22@bw.edu"), 
         "Christian Nsiah": ("+1234567890","cnsiah@bw.edu"), 
-        "Suresh Paul":     ("+1234567890","spaul@bw.edu"), 
         "Caleb Reed":      ("+1234567890","creed21@bw.edu"), 
         "Ryan Rivera":     ("+1234567890","rrivera@bw.edu"), 
         "Herman Sahni":    ("+1234567890","hsahni@bw.edu"), 
