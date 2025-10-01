@@ -1,0 +1,88 @@
+﻿name,birth_year,skin_color,eye_color,sex,gender,homeworld,species
+Luke Skywalker,19,fair,blue,male,masculine,Tatooine,Human
+C-3PO,112,gold,yellow,none,masculine,Tatooine,Droid
+R2-D2,33,"white, blue",red,none,masculine,Naboo,Droid
+Darth Vader,41.9,white,yellow,male,masculine,Tatooine,Human
+Leia Organa,19,light,brown,female,feminine,Alderaan,Human
+Owen Lars,52,light,blue,male,masculine,Tatooine,Human
+Beru Whitesun lars,47,light,blue,female,feminine,Tatooine,Human
+R5-D4,-99,"white, red",red,none,masculine,Tatooine,Droid
+Biggs Darklighter,24,light,brown,male,masculine,Tatooine,Human
+Obi-Wan Kenobi,57,fair,blue-gray,male,masculine,Stewjon,Human
+Anakin Skywalker,41.9,fair,blue,male,masculine,Tatooine,Human
+Wilhuff Tarkin,64,fair,blue,male,masculine,Eriadu,Human
+Chewbacca,200,unknown,blue,male,masculine,Kashyyyk,Wookiee
+Han Solo,29,fair,brown,male,masculine,Corellia,Human
+Greedo,44,green,black,male,masculine,Rodia,Rodian
+Jabba Desilijic Tiure,600,"green-tan, brown",orange,hermaphroditic,masculine,Nal Hutta,Hutt
+Wedge Antilles,21,fair,hazel,male,masculine,Corellia,Human
+Jek Tono Porkins,-99,fair,blue,male,masculine,Bestine IV,Human
+Yoda,896,green,brown,male,masculine,,Yoda's species
+Palpatine,82,pale,yellow,male,masculine,Naboo,Human
+Boba Fett,31.5,fair,brown,male,masculine,Kamino,Human
+IG-88,15,metal,red,none,masculine,,Droid
+Bossk,53,green,red,male,masculine,Trandosha,Trandoshan
+Lando Calrissian,31,dark,brown,male,masculine,Socorro,Human
+Lobot,37,light,blue,male,masculine,Bespin,Human
+Ackbar,41,brown mottle,orange,male,masculine,Mon Cala,Mon Calamari
+Mon Mothma,48,fair,blue,female,feminine,Chandrila,Human
+Arvel Crynyd,-99,fair,brown,male,masculine,,Human
+Wicket Systri Warrick,8,brown,brown,male,masculine,Endor,Ewok
+Nien Nunb,-99,grey,black,male,masculine,Sullust,Sullustan
+Qui-Gon Jinn,92,fair,blue,male,masculine,,Human
+Nute Gunray,-99,mottled green,red,male,masculine,Cato Neimoidia,Neimodian
+Finis Valorum,91,fair,blue,male,masculine,Coruscant,Human
+Jar Jar Binks,52,orange,orange,male,masculine,Naboo,Gungan
+Roos Tarpals,-99,grey,orange,male,masculine,Naboo,Gungan
+Rugor Nass,-99,green,orange,male,masculine,Naboo,Gungan
+Ric Olie,-99,fair,blue,,,Naboo,
+Watto,-99,"blue, grey",yellow,male,masculine,Toydaria,Toydarian
+Sebulba,-99,"grey, red",orange,male,masculine,Malastare,Dug
+Quarsh Panaka,62,dark,brown,,,Naboo,
+Shmi Skywalker,72,fair,brown,female,feminine,Tatooine,Human
+Darth Maul,54,red,yellow,male,masculine,Dathomir,Zabrak
+Bib Fortuna,-99,pale,pink,male,masculine,Ryloth,Twi'lek
+Ayla Secura,48,blue,hazel,female,feminine,Ryloth,Twi'lek
+Dud Bolt,-99,"blue, grey",yellow,male,masculine,Vulpter,Vulptereen
+Gasgano,-99,"white, blue",black,male,masculine,Troiken,Xexto
+Ben Quadinaros,-99,"grey, green, yellow",orange,male,masculine,Tund,Toong
+Mace Windu,72,dark,brown,male,masculine,Haruun Kal,Human
+Ki-Adi-Mundi,92,pale,yellow,male,masculine,Cerea,Cerean
+Kit Fisto,-99,green,black,male,masculine,Glee Anselm,Nautolan
+Eeth Koth,-99,brown,brown,male,masculine,Iridonia,Zabrak
+Adi Gallia,-99,dark,blue,female,feminine,Coruscant,Tholothian
+Saesee Tiin,-99,pale,orange,male,masculine,Iktotch,Iktotchi
+Yarael Poof,-99,white,yellow,male,masculine,Quermia,Quermian
+Plo Koon,22,orange,black,male,masculine,Dorin,Kel Dor
+Mas Amedda,-99,blue,blue,male,masculine,Champala,Chagrian
+Gregar Typho,-99,dark,brown,male,masculine,Naboo,Human
+Corde,-99,light,brown,female,feminine,Naboo,Human
+Cliegg Lars,82,fair,blue,male,masculine,Tatooine,Human
+Poggle the Lesser,-99,green,yellow,male,masculine,Geonosis,Geonosian
+Luminara Unduli,58,yellow,blue,female,feminine,Mirial,Mirialan
+Barriss Offee,40,yellow,blue,female,feminine,Mirial,Mirialan
+Dorme,-99,light,brown,female,feminine,Naboo,Human
+Dooku,102,fair,brown,male,masculine,Serenno,Human
+Bail Prestor Organa,67,tan,brown,male,masculine,Alderaan,Human
+Jango Fett,66,tan,brown,male,masculine,Concord Dawn,Human
+Zam Wesell,-99,"fair, green, yellow",yellow,female,feminine,Zolan,Clawdite
+Dexter Jettster,-99,brown,yellow,male,masculine,Ojom,Besalisk
+Lama Su,-99,grey,black,male,masculine,Kamino,Kaminoan
+Taun We,-99,grey,black,female,feminine,Kamino,Kaminoan
+Jocasta Nu,-99,fair,blue,female,feminine,Coruscant,Human
+Ratts Tyerell,-99,"grey, blue",unknown,male,masculine,Aleen Minor,Aleena
+R4-P17,-99,"silver, red","red, blue",none,feminine,,Droid
+Wat Tambor,-99,"green, grey",unknown,male,masculine,Skako,Skakoan
+San Hill,-99,grey,gold,male,masculine,Muunilinst,Muun
+Shaak Ti,-99,"red, blue, white",black,female,feminine,Shili,Togruta
+Grievous,-99,"brown, white","green, yellow",male,masculine,Kalee,Kaleesh
+Tarfful,-99,brown,blue,male,masculine,Kashyyyk,Wookiee
+Raymus Antilles,-99,light,brown,male,masculine,Alderaan,Human
+Sly Moore,-99,pale,white,,,Umbara,
+Tion Medon,-99,grey,black,male,masculine,Utapau,Pau'an
+Finn,-99,dark,dark,male,masculine,,Human
+Rey,-99,light,hazel,female,feminine,,Human
+Poe Dameron,-99,light,brown,male,masculine,,Human
+BB8,-99,none,black,none,masculine,,Droid
+Captain Phasma,-99,unknown,unknown,,,,
+Padme Amidala,46,light,brown,female,feminine,Naboo,Human
