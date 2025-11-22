@@ -1,0 +1,72 @@
+{
+    "AAPL/USD": {
+        "return": {
+            "period_1hr_return": 0.0012,
+            "period_4hr_return": -0.0035,
+            "period_6hr_return": -0.0078,
+            "period_12hr_return": 0.0124,
+            "period_24hr_return": 0.0210,
+            "period_36hr_return": 0.0275,
+            "period_48hr_return": 0.0312,
+            "period_72hr_return": 0.0456
+        },
+        "volume": 58920432,
+        "ret_ts": 1759503851000,
+        "ret_time": "03 October, 2025 Friday 11:04:11 AM",
+        "trade_dict_creation": 1759505986000,
+        "prices": {
+            "buy_price": 189.45,
+            "sell_price": 189.62
+        },
+        "timestamps": {
+            "buy_trade_creation": 1759506162000,
+            "buy_position_fulfilled": 1759506162000,
+            "sell_trade_creation": 1759506315000,
+            "sell_position_fulfilled": null
+        },
+        "ids": {
+            "open_position": "APPL-OPEN-001",
+            "close_position": "APPL-CLOSE-001"
+        },
+        "asset_balance": {
+            "from_buy_order": 100,
+            "from_fetch_balance": 100
+        },
+        "rank": 1
+    },
+    "AMZN/USD": {
+        "return": {
+            "period_1hr_return": -0.0021,
+            "period_4hr_return": 0.0043,
+            "period_6hr_return": 0.0075,
+            "period_12hr_return": -0.0054,
+            "period_24hr_return": 0.0112,
+            "period_36hr_return": 0.0189,
+            "period_48hr_return": 0.0220,
+            "period_72hr_return": 0.0305
+        },
+        "volume": 35019210,
+        "ret_ts": 1759503852000,
+        "ret_time": "03 October, 2025 Friday 11:04:11 AM",
+        "trade_dict_creation": 1759505986001,
+        "prices": {
+            "buy_price": 144.30,
+            "sell_price": 144.58
+        },
+        "timestamps": {
+            "buy_trade_creation": 1759506162500,
+            "buy_position_fulfilled": 1759506162500,
+            "sell_trade_creation": 1759506315200,
+            "sell_position_fulfilled": null
+        },
+        "ids": {
+            "open_position": "AMZN-OPEN-001",
+            "close_position": "AMZN-CLOSE-001"
+        },
+        "asset_balance": {
+            "from_buy_order": 50,
+            "from_fetch_balance": 50
+        },
+        "rank": 1
+    }
+}
