@@ -23,13 +23,14 @@ def parse_sic_file(input_path: str) -> list[dict]:
             # ✅ SIC ranges first
             range_match = range_pattern.match(stripped)
             if range_match and group_id is not None:
+                sic_description = range_match.group(3) or ""
+                industry_name_full = f"{industry_name}: {sic_description}".strip()
                 rows.append({
                     "group_id": group_id,
                     "industry_code": industry_code,
-                    "industry_name": industry_name,
                     "sic_start": int(range_match.group(1)),
                     "sic_end": int(range_match.group(2)),
-                    "sic_description": range_match.group(3) or ""
+                    "sic_description": industry_name_full
                 })
                 continue
 
