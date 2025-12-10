@@ -1,568 +1,568 @@
-group_id,industry_code,industry_name,sic_start,sic_end,sic_description
-1,Food,Food,100,199,Agricultural production - crops
-1,Food,Food,200,299,Agricultural production - livestock
-1,Food,Food,700,799,Agricultural services
-1,Food,Food,900,999,"Fishing, hunting & trapping"
-1,Food,Food,2000,2009,Food and kindred products
-1,Food,Food,2010,2019,Meat products
-1,Food,Food,2020,2029,Dairy products
-1,Food,Food,2030,2039,Canned & preserved fruits & vegetables
-1,Food,Food,2040,2046,Flour and other grain mill products
-1,Food,Food,2047,2047,Dog and cat food
-1,Food,Food,2048,2048,Prepared feeds for animals
-1,Food,Food,2050,2059,Bakery products
-1,Food,Food,2060,2063,Sugar and confectionery products
-1,Food,Food,2064,2068,Candy and other confectionery
-1,Food,Food,2070,2079,Fats and oils
-1,Food,Food,2080,2080,Beverages
-1,Food,Food,2082,2082,Malt beverages
-1,Food,Food,2083,2083,Malt
-1,Food,Food,2084,2084,Wine
-1,Food,Food,2085,2085,Distilled and blended liquors
-1,Food,Food,2086,2086,Bottled-canned soft drinks
-1,Food,Food,2087,2087,Flavoring syrup
-1,Food,Food,2090,2092,Misc food preparations and kindred products
-1,Food,Food,2095,2095,Roasted coffee
-1,Food,Food,2096,2096,Potato chips
-1,Food,Food,2097,2097,Manufactured ice
-1,Food,Food,2098,2099,Misc food preparations
-1,Food,Food,5140,5149,Wholesale - groceries & related products
-1,Food,Food,5150,5159,Wholesale - farm product raw materials
-1,Food,Food,5180,5182,"Wholesale - beer, wine & distilled alcoholic beverages"
-1,Food,Food,5191,5191,Wholesale - farm supplies
-2,Mines,Mining and Minerals,1000,1009,Metal mining
-2,Mines,Mining and Minerals,1010,1019,Iron ores
-2,Mines,Mining and Minerals,1020,1029,Copper ores
-2,Mines,Mining and Minerals,1030,1039,Lead and zinc ores
-2,Mines,Mining and Minerals,1040,1049,Gold & silver ores                 
-2,Mines,Mining and Minerals,1060,1069,Ferroalloy ores
-2,Mines,Mining and Minerals,1080,1089,Metal mining services
-2,Mines,Mining and Minerals,1090,1099,Misc metal ores
-2,Mines,Mining and Minerals,1200,1299,Bituminous coal
-2,Mines,Mining and Minerals,1400,1499,Mining and quarrying nonmetallic minerals
-2,Mines,Mining and Minerals,5050,5052,"Wholesale - metals and minerals, except petroleum"
-3,Oil,Oil and Petroleum Products,1300,1300,Oil and gas extraction
-3,Oil,Oil and Petroleum Products,1310,1319,Crude petroleum & natural gas
-3,Oil,Oil and Petroleum Products,1320,1329,Natural gas liquids
-3,Oil,Oil and Petroleum Products,1380,1380,Oil and gas field services
-3,Oil,Oil and Petroleum Products,1381,1381,Drilling oil & gas wells
-3,Oil,Oil and Petroleum Products,1382,1382,Oil & gas field exploration services
-3,Oil,Oil and Petroleum Products,1389,1389,Misc oil & gas field services
-3,Oil,Oil and Petroleum Products,2900,2912,Petroleum refining
-3,Oil,Oil and Petroleum Products,5170,5172,Wholesale - petroleum and petroleum products
-4,Clths,"Textiles, Apparel & Footwear",2200,2269,Textile mill products
-4,Clths,"Textiles, Apparel & Footwear",2270,2279,Floor covering mills
-4,Clths,"Textiles, Apparel & Footwear",2280,2284,Yarn and thread mills
-4,Clths,"Textiles, Apparel & Footwear",2290,2295,Misc textile goods
-4,Clths,"Textiles, Apparel & Footwear",2296,2296,Tire cord and fabric
-4,Clths,"Textiles, Apparel & Footwear",2297,2297,Non-woven fabrics
-4,Clths,"Textiles, Apparel & Footwear",2298,2298,Cordage and twine
-4,Clths,"Textiles, Apparel & Footwear",2299,2299,Misc textile products
-4,Clths,"Textiles, Apparel & Footwear",2300,2390,Apparel and other finished products
-4,Clths,"Textiles, Apparel & Footwear",2391,2392,"Curtains, home furnishings"
-4,Clths,"Textiles, Apparel & Footwear",2393,2395,"Textile bags, canvas products"
-4,Clths,"Textiles, Apparel & Footwear",2396,2396,"Automotive trimmings, apparel findings & related products"
-4,Clths,"Textiles, Apparel & Footwear",2397,2399,Misc textile products
-4,Clths,"Textiles, Apparel & Footwear",3020,3021,Rubber and plastics footwear
-4,Clths,"Textiles, Apparel & Footwear",3100,3111,Leather tanning and finishing
-4,Clths,"Textiles, Apparel & Footwear",3130,3131,Boot & shoe cut stock & findings
-4,Clths,"Textiles, Apparel & Footwear",3140,3149,"Footwear, except rubber"
-4,Clths,"Textiles, Apparel & Footwear",3150,3151,Leather gloves and mittens
-4,Clths,"Textiles, Apparel & Footwear",3963,3965,"Fasteners, buttons, needles, pins"
-4,Clths,"Textiles, Apparel & Footwear",5130,5139,"Wholesale - apparel, piece goods & notions"
-5,Durbl,Consumer Durables,2510,2519,Household furniture
-5,Durbl,Consumer Durables,2590,2599,Misc furniture and fixtures
-5,Durbl,Consumer Durables,3060,3069,Fabricated rubber products
-5,Durbl,Consumer Durables,3070,3079,Misc rubber products (?)
-5,Durbl,Consumer Durables,3080,3089,Misc plastic products
-5,Durbl,Consumer Durables,3090,3099,Misc rubber and plastic products (?)
-5,Durbl,Consumer Durables,3630,3639,Household appliances
-5,Durbl,Consumer Durables,3650,3651,Household audio visual equipment
-5,Durbl,Consumer Durables,3652,3652,Phonograph records
-5,Durbl,Consumer Durables,3860,3861,"Photographic equipment  (Kodak etc, but also Xerox)"
-5,Durbl,Consumer Durables,3870,3873,"Watches, clocks and parts"
-5,Durbl,Consumer Durables,3910,3911,"Jewelry, precious metals"
-5,Durbl,Consumer Durables,3914,3914,Silverware
-5,Durbl,Consumer Durables,3915,3915,Jewelers' findings and materials
-5,Durbl,Consumer Durables,3930,3931,Musical instruments
-5,Durbl,Consumer Durables,3940,3949,Toys
-5,Durbl,Consumer Durables,3960,3962,Costume jewelry and novelties
-5,Durbl,Consumer Durables,5020,5023,Wholesale - furniture and home furnishings
-5,Durbl,Consumer Durables,5064,5064,"Wholesale - electrical appliance, TV and radio sets"
-5,Durbl,Consumer Durables,5094,5094,"Wholesale - jewelry, watches, precious stones & metals"
-5,Durbl,Consumer Durables,5099,5099,Wholesale - durable goods
-6,Chems,Chemicals,2800,2809,Chemicals and allied products
-6,Chems,Chemicals,2810,2819,Industrial inorganic chemicals
-6,Chems,Chemicals,2820,2829,Plastic material & synthetic resin/rubber
-6,Chems,Chemicals,2860,2869,Industrial organic chemicals
-6,Chems,Chemicals,2870,2879,Agriculture chemicals
-6,Chems,Chemicals,2890,2899,Misc chemical products
-6,Chems,Chemicals,5160,5169,Wholesale - chemicals & allied products
-7,Cnsum,"Drugs, Soap, Perfumes, Tobacco",2100,2199,Tobacco products
-7,Cnsum,"Drugs, Soap, Perfumes, Tobacco",2830,2830,Drugs
-7,Cnsum,"Drugs, Soap, Perfumes, Tobacco",2831,2831,Biological products
-7,Cnsum,"Drugs, Soap, Perfumes, Tobacco",2833,2833,Medicinal chemicals
-7,Cnsum,"Drugs, Soap, Perfumes, Tobacco",2834,2834,Pharmaceutical preparations
-7,Cnsum,"Drugs, Soap, Perfumes, Tobacco",2840,2843,Soap & other detergents
-7,Cnsum,"Drugs, Soap, Perfumes, Tobacco",2844,2844,"Perfumes, cosmetics and other toilet preparations"
-7,Cnsum,"Drugs, Soap, Perfumes, Tobacco",5120,5122,Wholesale - drugs & drug proprietaries
-7,Cnsum,"Drugs, Soap, Perfumes, Tobacco",5194,5194,Wholesale - tobacco and tobacco products
-8,Cnstr,Construction and Construction Materials,800,899,Forestry
-8,Cnstr,Construction and Construction Materials,1500,1511,Build construction - general contractors
-8,Cnstr,Construction and Construction Materials,1520,1529,General building contractors - residential
-8,Cnstr,Construction and Construction Materials,1530,1539,Operative builders
-8,Cnstr,Construction and Construction Materials,1540,1549,General building contractors - non-residential
-8,Cnstr,Construction and Construction Materials,1600,1699,Heavy construction - not building contractors
-8,Cnstr,Construction and Construction Materials,1700,1799,Construction - special contractors
-8,Cnstr,Construction and Construction Materials,2400,2439,Lumber and wood products
-8,Cnstr,Construction and Construction Materials,2440,2449,Wood containers
-8,Cnstr,Construction and Construction Materials,2450,2459,Wood buildings & mobile homes
-8,Cnstr,Construction and Construction Materials,2490,2499,Misc wood products
-8,Cnstr,Construction and Construction Materials,2850,2859,Paints
-8,Cnstr,Construction and Construction Materials,2950,2952,Paving & roofing materials
-8,Cnstr,Construction and Construction Materials,3200,3200,"Stone, clay, glass, concrete, etc"
-8,Cnstr,Construction and Construction Materials,3210,3211,Flat glass
-8,Cnstr,Construction and Construction Materials,3240,3241,"Cement, hydraulic"
-8,Cnstr,Construction and Construction Materials,3250,3259,Structural clay products
-8,Cnstr,Construction and Construction Materials,3261,3261,Vitreous china plumbing fixtures
-8,Cnstr,Construction and Construction Materials,3264,3264,Porcelain electrical supplies
-8,Cnstr,Construction and Construction Materials,3270,3275,"Concrete, gypsum & plaster products"
-8,Cnstr,Construction and Construction Materials,3280,3281,Cut stone and stone products
-8,Cnstr,Construction and Construction Materials,3290,3293,Abrasive and asbestos products
-8,Cnstr,Construction and Construction Materials,3420,3429,"Cutlery, hand tools and general hardware"
-8,Cnstr,Construction and Construction Materials,3430,3433,Heating equipment & plumbing fixtures
-8,Cnstr,Construction and Construction Materials,3440,3441,Fabricated structural metal products
-8,Cnstr,Construction and Construction Materials,3442,3442,"Metal doors, frames"
-8,Cnstr,Construction and Construction Materials,3446,3446,Architectural or ornamental metal work
-8,Cnstr,Construction and Construction Materials,3448,3448,Prefabricated metal buildings and components
-8,Cnstr,Construction and Construction Materials,3449,3449,Misc structural metal work
-8,Cnstr,Construction and Construction Materials,3450,3451,Screw machine products
-8,Cnstr,Construction and Construction Materials,3452,3452,"Bolts, nuts, screws, rivets and washers"
-8,Cnstr,Construction and Construction Materials,5030,5039,Wholesale - lumber and construction materials
-8,Cnstr,Construction and Construction Materials,5070,5078,"Wholesale - hardware, plumbing & heating equipment"
-8,Cnstr,Construction and Construction Materials,5198,5198,"Wholesale - Paints, varnishes, and supplies"
-8,Cnstr,Construction and Construction Materials,5210,5211,Retail - lumber & other building materials
-8,Cnstr,Construction and Construction Materials,5230,5231,"Retail - paint, glass & wallpaper stores"
-8,Cnstr,Construction and Construction Materials,5250,5251,Retail - hardware stores
-9,Steel,Steel Works Etc,3300,3300,Primary metal industries
-9,Steel,Steel Works Etc,3310,3317,Blast furnaces & steel works
-9,Steel,Steel Works Etc,3320,3325,Iron & steel foundries
-9,Steel,Steel Works Etc,3330,3339,Primary smelting & refining of nonferrous metals
-9,Steel,Steel Works Etc,3340,3341,Secondary smelting & refining of nonferrous metals
-9,Steel,Steel Works Etc,3350,3357,"Rolling, drawing & extruding of nonferrous metals"
-9,Steel,Steel Works Etc,3360,3369,Nonferrous foundries and casting
-9,Steel,Steel Works Etc,3390,3399,Misc primary metal products
-10,FabPr,Fabricated Products,3410,3412,Metal cans and shipping containers
-10,FabPr,Fabricated Products,3443,3443,Fabricated plate work
-10,FabPr,Fabricated Products,3444,3444,Sheet metal work
-10,FabPr,Fabricated Products,3460,3469,Metal forgings and stampings
-10,FabPr,Fabricated Products,3470,3479,"Coating, engraving and allied services"
-10,FabPr,Fabricated Products,3480,3489,Ordnance & accessories
-10,FabPr,Fabricated Products,3490,3499,Misc fabricated metal products
-11,Machn,Machinery and Business Equipment,3510,3519,Engines & turbines
-11,Machn,Machinery and Business Equipment,3520,3529,Farm and garden machinery and equipment
-11,Machn,Machinery and Business Equipment,3530,3530,"Construction, mining & material handling machinery & equipment"
-11,Machn,Machinery and Business Equipment,3531,3531,Construction machinery & equipment
-11,Machn,Machinery and Business Equipment,3532,3532,"Mining machinery & equipment, except oil field"
-11,Machn,Machinery and Business Equipment,3533,3533,Oil & gas field machinery & equipment
-11,Machn,Machinery and Business Equipment,3534,3534,Elevators & moving stairways
-11,Machn,Machinery and Business Equipment,3535,3535,Conveyors & conveying equipment
-11,Machn,Machinery and Business Equipment,3536,3536,"Cranes, hoists and monorail systems"
-11,Machn,Machinery and Business Equipment,3540,3549,Metalworking machinery & equipment
-11,Machn,Machinery and Business Equipment,3550,3559,Special industry machinery
-11,Machn,Machinery and Business Equipment,3560,3569,General industrial machinery & equipment
-11,Machn,Machinery and Business Equipment,3570,3579,Computer & office equipment
-11,Machn,Machinery and Business Equipment,3580,3580,Refrigeration & service industry machinery
-11,Machn,Machinery and Business Equipment,3581,3581,Automatic vending machines
-11,Machn,Machinery and Business Equipment,3582,3582,Commercial laundry and dry-cleaning machines
-11,Machn,Machinery and Business Equipment,3585,3585,"Air conditioning, warm air heating and refrigeration equipment"
-11,Machn,Machinery and Business Equipment,3586,3586,Measuring and dispensing pumps
-11,Machn,Machinery and Business Equipment,3589,3589,Service industry machinery
-11,Machn,Machinery and Business Equipment,3590,3599,Misc industrial and commercial equipment and machinery
-11,Machn,Machinery and Business Equipment,3600,3600,Electronic & other electrical equipment
-11,Machn,Machinery and Business Equipment,3610,3613,Electric transmission and distribution equipment
-11,Machn,Machinery and Business Equipment,3620,3621,Electrical industrial apparatus
-11,Machn,Machinery and Business Equipment,3622,3622,Industrial controls
-11,Machn,Machinery and Business Equipment,3623,3629,Electrical industrial apparatus
-11,Machn,Machinery and Business Equipment,3670,3679,Electronic components & accessories
-11,Machn,Machinery and Business Equipment,3680,3680,Computers
-11,Machn,Machinery and Business Equipment,3681,3681,Computers - mini
-11,Machn,Machinery and Business Equipment,3682,3682,Computers - mainframe
-11,Machn,Machinery and Business Equipment,3683,3683,Computers - terminals
-11,Machn,Machinery and Business Equipment,3684,3684,Computers - disk & tape drives
-11,Machn,Machinery and Business Equipment,3685,3685,Computers - optical scanners
-11,Machn,Machinery and Business Equipment,3686,3686,Computers - graphics
-11,Machn,Machinery and Business Equipment,3687,3687,Computers - office automation systems
-11,Machn,Machinery and Business Equipment,3688,3688,Computers - peripherals
-11,Machn,Machinery and Business Equipment,3689,3689,Computers - equipment
-11,Machn,Machinery and Business Equipment,3690,3690,Misc electrical machinery and equipment
-11,Machn,Machinery and Business Equipment,3691,3692,Storage batteries
-11,Machn,Machinery and Business Equipment,3693,3693,"X-ray, electromedical app"
-11,Machn,Machinery and Business Equipment,3694,3694,Electrical equipment for internal combustion engines
-11,Machn,Machinery and Business Equipment,3695,3695,Magnetic and optical recording media
-11,Machn,Machinery and Business Equipment,3699,3699,"Misc electrical machinery, equipment and supplies"
-11,Machn,Machinery and Business Equipment,3810,3810,"Search, detection, navigation, guidance"
-11,Machn,Machinery and Business Equipment,3811,3811,Engr lab and research equipment
-11,Machn,Machinery and Business Equipment,3812,3812,"Search, detection, navigation, guidance"
-11,Machn,Machinery and Business Equipment,3820,3820,Measuring and controlling equipment
-11,Machn,Machinery and Business Equipment,3821,3821,Laboratory apparatus and furniture
-11,Machn,Machinery and Business Equipment,3822,3822,Automatic controls for regulating residential & commercial environments & appliances 
-11,Machn,Machinery and Business Equipment,3823,3823,Industrial measurement instruments & related products
-11,Machn,Machinery and Business Equipment,3824,3824,Totalizing fluid meters & counting devices
-11,Machn,Machinery and Business Equipment,3825,3825,Instruments for measuring & testing of electricity & electrical instruments
-11,Machn,Machinery and Business Equipment,3826,3826,Lab analytical instruments
-11,Machn,Machinery and Business Equipment,3827,3827,Optical instruments and lenses
-11,Machn,Machinery and Business Equipment,3829,3829,Misc measuring and controlling devices
-11,Machn,Machinery and Business Equipment,3830,3839,Optical instruments and lenses
-11,Machn,Machinery and Business Equipment,3950,3955,"Pens, pencils & other artists’ supplies"
-11,Machn,Machinery and Business Equipment,5060,5060,Wholesale - electrical goods
-11,Machn,Machinery and Business Equipment,5063,5063,Wholesale - electrical apparatus and equipment
-11,Machn,Machinery and Business Equipment,5065,5065,Wholesale - electronic parts & equipment
-11,Machn,Machinery and Business Equipment,5080,5080,"Wholesale - machinery, equipment & supplies"
-11,Machn,Machinery and Business Equipment,5081,5081,Wholesale - machinery & equipment (?)
-12,Cars,Automobiles,3710,3710,Motor vehicles and motor vehicle equipment
-12,Cars,Automobiles,3711,3711,Motor vehicles & passenger car bodies
-12,Cars,Automobiles,3714,3714,Motor vehicle parts & accessories
-12,Cars,Automobiles,3716,3716,Motor homes
-12,Cars,Automobiles,3750,3751,"Motorcycles, bicycles and parts  (Harley & Huffy)"
-12,Cars,Automobiles,3792,3792,Travel trailers and campers
-12,Cars,Automobiles,5010,5015,Wholesale - automotive vehicles & automotive parts & supplies
-12,Cars,Automobiles,5510,5521,Retail - automotive dealers
-12,Cars,Automobiles,5530,5531,Retail - automotive and home supply stores
-12,Cars,Automobiles,5560,5561,Retail - recreation vehicle dealers
-12,Cars,Automobiles,5570,5571,Retail - motorcycle dealers
-12,Cars,Automobiles,5590,5599,Retail - automotive dealers
-13,Trans,Transportation,3713,3713,Truck & bus bodies
-13,Trans,Transportation,3715,3715,Truck trailers
-13,Trans,Transportation,3720,3720,Aircraft & parts
-13,Trans,Transportation,3721,3721,Aircraft
-13,Trans,Transportation,3724,3724,Aircraft engines & engine parts
-13,Trans,Transportation,3725,3725,Aircraft parts
-13,Trans,Transportation,3728,3728,Misc aircraft parts & auxiliary equipment
-13,Trans,Transportation,3730,3731,Ship building and repairing
-13,Trans,Transportation,3732,3732,Boat building and repairing
-13,Trans,Transportation,3740,3743,Railroad Equipment
-13,Trans,Transportation,3760,3769,Guided missiles and space vehicles
-13,Trans,Transportation,3790,3790,Misc transmission equipment
-13,Trans,Transportation,3795,3795,Tanks and tank components
-13,Trans,Transportation,3799,3799,Misc transmission equipment
-13,Trans,Transportation,4000,4013,"Railroads, line-haul operating "
-13,Trans,Transportation,4100,4100,Local & suburban transit & interurban highway passenger transportation
-13,Trans,Transportation,4110,4119,Local & suburban passenger transportation
-13,Trans,Transportation,4120,4121,Taxicabs
-13,Trans,Transportation,4130,4131,Intercity & rural bus transportation (Greyhound)
-13,Trans,Transportation,4140,4142,Bus charter service
-13,Trans,Transportation,4150,4151,School buses
-13,Trans,Transportation,4170,4173,Motor vehicle terminals & service facilities
-13,Trans,Transportation,4190,4199,Misc transit and passenger transportation
-13,Trans,Transportation,4200,4200,Trucking & warehousing
-13,Trans,Transportation,4210,4219,"Trucking & courier services, except air"
-13,Trans,Transportation,4220,4229,Public warehousing and storage
-13,Trans,Transportation,4230,4231,Terminal & joint terminal maintenance          
-13,Trans,Transportation,4400,4499,Water transport
-13,Trans,Transportation,4500,4599,Air transportation
-13,Trans,Transportation,4600,4699,"Pipelines, except natural gas"
-13,Trans,Transportation,4700,4700,Transportation services
-13,Trans,Transportation,4710,4712,Freight forwarding
-13,Trans,Transportation,4720,4729,Arrangement of passenger transportation
-13,Trans,Transportation,4730,4739,Arrangement of transportation of freight and cargo
-13,Trans,Transportation,4740,4742,Rental of railroad cars
-13,Trans,Transportation,4780,4780,Misc services incidental to transportation 
-13,Trans,Transportation,4783,4783,Packing and crating
-13,Trans,Transportation,4785,4785,Motor vehicle inspection
-13,Trans,Transportation,4789,4789,Misc transportation services
-14,Utils,Utilities,4900,4900,"Electric, gas & sanitary services"
-14,Utils,Utilities,4910,4911,Electric services
-14,Utils,Utilities,4920,4922,Natural gas transmission
-14,Utils,Utilities,4923,4923,Natural gas transmission & distribution
-14,Utils,Utilities,4924,4925,Natural gas distribution
-14,Utils,Utilities,4930,4931,Electric and other services combined
-14,Utils,Utilities,4932,4932,Gas and other services combined
-14,Utils,Utilities,4939,4939,Misc combination utilities
-14,Utils,Utilities,4940,4942,Water supply
-15,Rtail,Retail Stores,5260,5261,"Retail - nurseries, lawn & garden supply stores"
-15,Rtail,Retail Stores,5270,5271,Retail - mobile home dealers
-15,Rtail,Retail Stores,5300,5300,Retail - general merchandise stores
-15,Rtail,Retail Stores,5310,5311,Retail - department stores
-15,Rtail,Retail Stores,5320,5320,Retail - general merchandise stores (?)
-15,Rtail,Retail Stores,5330,5331,Retail - variety stores
-15,Rtail,Retail Stores,5334,5334,Retail - catalog showroom
-15,Rtail,Retail Stores,5390,5399,Retail - Misc general merchandise stores
-15,Rtail,Retail Stores,5400,5400,Retail - food stores
-15,Rtail,Retail Stores,5410,5411,Retail - grocery stores
-15,Rtail,Retail Stores,5412,5412,Retail - convenience stores
-15,Rtail,Retail Stores,5420,5421,Retail - meat & fish markets
-15,Rtail,Retail Stores,5430,5431,Retail - fruit and vegetable markets
-15,Rtail,Retail Stores,5440,5441,"Retail - candy, nut & confectionary stores"
-15,Rtail,Retail Stores,5450,5451,Retail - dairy products stores
-15,Rtail,Retail Stores,5460,5461,Retail - bakeries
-15,Rtail,Retail Stores,5490,5499,Retail - Misc food stores
-15,Rtail,Retail Stores,5540,5541,Retail - gasoline service stations
-15,Rtail,Retail Stores,5550,5551,Retail - boat dealers
-15,Rtail,Retail Stores,5600,5699,Retail - apparel & accessory stores
-15,Rtail,Retail Stores,5700,5700,Retail - home furniture and equipment stores
-15,Rtail,Retail Stores,5710,5719,Retail - home furnishings stores
-15,Rtail,Retail Stores,5720,5722,Retail - household appliance stores
-15,Rtail,Retail Stores,5730,5733,"Retail - radio, TV and consumer electronic stores"
-15,Rtail,Retail Stores,5734,5734,Retail - computer and computer software stores
-15,Rtail,Retail Stores,5735,5735,Retail - record and tape stores
-15,Rtail,Retail Stores,5736,5736,Retail - musical instrument stores
-15,Rtail,Retail Stores,5750,5750,Retail - (?)
-15,Rtail,Retail Stores,5800,5813,Retail - eating places
-15,Rtail,Retail Stores,5890,5890,Eating and drinking places
-15,Rtail,Retail Stores,5900,5900,Retail - Misc
-15,Rtail,Retail Stores,5910,5912,Retail - drug & proprietary stores
-15,Rtail,Retail Stores,5920,5921,Retail - liquor stores
-15,Rtail,Retail Stores,5930,5932,Retail - used merchandise stores
-15,Rtail,Retail Stores,5940,5940,Retail - Misc
-15,Rtail,Retail Stores,5941,5941,Retail - sporting goods stores & bike shops
-15,Rtail,Retail Stores,5942,5942,Retail - book stores
-15,Rtail,Retail Stores,5943,5943,Retail - stationery stores
-15,Rtail,Retail Stores,5944,5944,Retail - jewelry stores
-15,Rtail,Retail Stores,5945,5945,"Retail - hobby, toy and game shops"
-15,Rtail,Retail Stores,5946,5946,Retail - camera and photographic supply stores
-15,Rtail,Retail Stores,5947,5947,"Retail - gift, novelty & souvenir shops"
-15,Rtail,Retail Stores,5948,5948,Retail - luggage & leather goods stores
-15,Rtail,Retail Stores,5949,5949,Retail - sewing & needlework stores
-15,Rtail,Retail Stores,5960,5963,"Retail - non-store retailers (catalogs, etc) "
-15,Rtail,Retail Stores,5980,5989,Retail - fuel dealers & ice stores (Penn Central Co)
-15,Rtail,Retail Stores,5990,5990,Retail - Misc retail stores
-15,Rtail,Retail Stores,5992,5992,Retail - florists
-15,Rtail,Retail Stores,5993,5993,Retail - tobacco stores and stands
-15,Rtail,Retail Stores,5994,5994,Retail - newsdealers and news stands
-15,Rtail,Retail Stores,5995,5995,Retail - optical goods stores
-15,Rtail,Retail Stores,5999,5999,Misc retail stores
-16,Finan,"Banks, Insurance Companies, and Other Financials",6010,6019,Federal reserve banks
-16,Finan,"Banks, Insurance Companies, and Other Financials",6020,6020,Commercial banks
-16,Finan,"Banks, Insurance Companies, and Other Financials",6021,6021,National commercial banks
-16,Finan,"Banks, Insurance Companies, and Other Financials",6022,6022,State commercial banks - Fed Res System
-16,Finan,"Banks, Insurance Companies, and Other Financials",6023,6023,State commercial banks - not Fed Res System
-16,Finan,"Banks, Insurance Companies, and Other Financials",6025,6025,National commercial banks - Fed Res System
-16,Finan,"Banks, Insurance Companies, and Other Financials",6026,6026,National commercial banks - not Fed Res System 
-16,Finan,"Banks, Insurance Companies, and Other Financials",6028,6029,Misc commercial banks
-16,Finan,"Banks, Insurance Companies, and Other Financials",6030,6036,Savings institutions
-16,Finan,"Banks, Insurance Companies, and Other Financials",6040,6049,"Trust companies, non-deposit"
-16,Finan,"Banks, Insurance Companies, and Other Financials",6050,6059,Functions closely related to banking
-16,Finan,"Banks, Insurance Companies, and Other Financials",6060,6062,Credit unions
-16,Finan,"Banks, Insurance Companies, and Other Financials",6080,6082,Foreign banks
-16,Finan,"Banks, Insurance Companies, and Other Financials",6090,6099,Functions related to depository banking
-16,Finan,"Banks, Insurance Companies, and Other Financials",6100,6100,Non-depository credit institutions
-16,Finan,"Banks, Insurance Companies, and Other Financials",6110,6111,Federal credit agencies
-16,Finan,"Banks, Insurance Companies, and Other Financials",6112,6112,FNMA
-16,Finan,"Banks, Insurance Companies, and Other Financials",6120,6129,S&Ls 
-16,Finan,"Banks, Insurance Companies, and Other Financials",6140,6149,Personal credit institutions (Beneficial)
-16,Finan,"Banks, Insurance Companies, and Other Financials",6150,6159,Business credit institutions
-16,Finan,"Banks, Insurance Companies, and Other Financials",6160,6163,Mortgage bankers
-16,Finan,"Banks, Insurance Companies, and Other Financials",6172,6172,Finance lessors
-16,Finan,"Banks, Insurance Companies, and Other Financials",6199,6199,Financial services
-16,Finan,"Banks, Insurance Companies, and Other Financials",6200,6299,"Security and commodity brokers, dealers, exchanges & services"
-16,Finan,"Banks, Insurance Companies, and Other Financials",6300,6300,Insurance
-16,Finan,"Banks, Insurance Companies, and Other Financials",6310,6312,Life insurance
-16,Finan,"Banks, Insurance Companies, and Other Financials",6320,6324,Accident and health insurance
-16,Finan,"Banks, Insurance Companies, and Other Financials",6330,6331,"Fire, marine & casualty insurance"
-16,Finan,"Banks, Insurance Companies, and Other Financials",6350,6351,Surety insurance
-16,Finan,"Banks, Insurance Companies, and Other Financials",6360,6361,Title insurance
-16,Finan,"Banks, Insurance Companies, and Other Financials",6370,6371,"Pension, health & welfare funds"
-16,Finan,"Banks, Insurance Companies, and Other Financials",6390,6399,Misc insurance carriers
-16,Finan,"Banks, Insurance Companies, and Other Financials",6400,6411,"Insurance agents, brokers & service"
-16,Finan,"Banks, Insurance Companies, and Other Financials",6500,6500,Real estate
-16,Finan,"Banks, Insurance Companies, and Other Financials",6510,6510,Real estate operators and lessors
-16,Finan,"Banks, Insurance Companies, and Other Financials",6512,6512,Operators - non-resident buildings
-16,Finan,"Banks, Insurance Companies, and Other Financials",6513,6513,Operators - apartment buildings
-16,Finan,"Banks, Insurance Companies, and Other Financials",6514,6514,Operators - other than apartment
-16,Finan,"Banks, Insurance Companies, and Other Financials",6515,6515,Operators - residential mobile home
-16,Finan,"Banks, Insurance Companies, and Other Financials",6517,6519,Lessors of railroad & real property
-16,Finan,"Banks, Insurance Companies, and Other Financials",6530,6531,Real estate agents and managers
-16,Finan,"Banks, Insurance Companies, and Other Financials",6532,6532,Real estate dealers
-16,Finan,"Banks, Insurance Companies, and Other Financials",6540,6541,Title abstract offices
-16,Finan,"Banks, Insurance Companies, and Other Financials",6550,6553,Land subdividers & developers
-16,Finan,"Banks, Insurance Companies, and Other Financials",6611,6611,"Combined real estate, insurance, etc"
-16,Finan,"Banks, Insurance Companies, and Other Financials",6700,6700,Holding & other investment offices
-16,Finan,"Banks, Insurance Companies, and Other Financials",6710,6719,Holding offices
-16,Finan,"Banks, Insurance Companies, and Other Financials",6720,6722,"Management investment offices, open-end"
-16,Finan,"Banks, Insurance Companies, and Other Financials",6723,6723,"Management investment offices, closed-end"
-16,Finan,"Banks, Insurance Companies, and Other Financials",6724,6724,Unit investment trusts                          
-16,Finan,"Banks, Insurance Companies, and Other Financials",6725,6725,Face-amount certificate offices 
-16,Finan,"Banks, Insurance Companies, and Other Financials",6726,6726,"Unit investment trusts, closed-end                "
-16,Finan,"Banks, Insurance Companies, and Other Financials",6730,6733,Trusts
-16,Finan,"Banks, Insurance Companies, and Other Financials",6790,6790,Misc investing
-16,Finan,"Banks, Insurance Companies, and Other Financials",6792,6792,Oil royalty traders
-16,Finan,"Banks, Insurance Companies, and Other Financials",6794,6794,Patent owners & lessors
-16,Finan,"Banks, Insurance Companies, and Other Financials",6795,6795,Mineral royalty traders
-16,Finan,"Banks, Insurance Companies, and Other Financials",6798,6798,REIT
-16,Finan,"Banks, Insurance Companies, and Other Financials",6799,6799,"Investors, NEC"
-17,Other,Other,2520,2549,Office furniture and fixtures
-17,Other,Other,2600,2639,Paper and allied products
-17,Other,Other,2640,2659,"Paperboard containers, boxes, drums, tubs"
-17,Other,Other,2661,2661,Building paper and board mills
-17,Other,Other,2670,2699,Paper and allied products
-17,Other,Other,2700,2709,Printing publishing and allied
-17,Other,Other,2710,2719,Newspapers: publishing-printing
-17,Other,Other,2720,2729,Periodicals: publishing-printing
-17,Other,Other,2730,2739,Books: publishing-printing
-17,Other,Other,2740,2749,Misc publishing
-17,Other,Other,2750,2759,Commercial printing
-17,Other,Other,2760,2761,Manifold business forms
-17,Other,Other,2770,2771,Greeting card
-17,Other,Other,2780,2789,Bookbinding
-17,Other,Other,2790,2799,Service industries for the print trade
-17,Other,Other,2835,2835,"In vitro, in vivo diagnostic substances"
-17,Other,Other,2836,2836,"Biological products, except diagnostic substances"
-17,Other,Other,2990,2999,Misc products of petroleum & coal
-17,Other,Other,3000,3000,Rubber & misc plastic products
-17,Other,Other,3010,3011,Tires and inner tubes
-17,Other,Other,3041,3041,Rubber & plastic hose & belting
-17,Other,Other,3050,3053,"Gaskets, hoses, etc"
-17,Other,Other,3160,3161,Luggage
-17,Other,Other,3170,3171,Handbags and purses
-17,Other,Other,3172,3172,"Personal leather goods, except handbags and purses"
-17,Other,Other,3190,3199,Leather goods
-17,Other,Other,3220,3221,Glass containers
-17,Other,Other,3229,3229,Pressed and blown glass
-17,Other,Other,3230,3231,Glass products
-17,Other,Other,3260,3260,Pottery and related products
-17,Other,Other,3262,3263,China and earthenware table articles
-17,Other,Other,3269,3269,Pottery products
-17,Other,Other,3295,3299,Misc nonmetallic mineral products
-17,Other,Other,3537,3537,"Industrial trucks, tractors, trailers & stackers"
-17,Other,Other,3640,3644,Electric lighting & wiring equipment
-17,Other,Other,3645,3645,Residential electric lighting fixtures
-17,Other,Other,3646,3646,"Commercial, industrial and institutional electric lighting fixtures"
-17,Other,Other,3647,3647,Vehicular lighting equipment
-17,Other,Other,3648,3649,Misc lighting equipment
-17,Other,Other,3660,3660,Communications equipment
-17,Other,Other,3661,3661,Telephone and telegraph apparatus
-17,Other,Other,3662,3662,Communications equipment
-17,Other,Other,3663,3663,Radio & TV broadcasting & communications equipment
-17,Other,Other,3664,3664,"Search, navigation, guidance systems"
-17,Other,Other,3665,3665,Training equipment & simulators
-17,Other,Other,3666,3666,Alarm & signaling products
-17,Other,Other,3669,3669,Communication equipment
-17,Other,Other,3840,3849,"Surgical, medical, and dental instruments and supplies"
-17,Other,Other,3850,3851,Ophthalmic goods
-17,Other,Other,3991,3991,Brooms and brushes
-17,Other,Other,3993,3993,Signs & advertising specialties
-17,Other,Other,3995,3995,Burial caskets
-17,Other,Other,3996,3996,Hard surface floor coverings
-17,Other,Other,4810,4813,Telephone communications
-17,Other,Other,4820,4822,Telegraph and other message communication
-17,Other,Other,4830,4839,Radio & TV broadcasters
-17,Other,Other,4840,4841,Cable and other pay TV services
-17,Other,Other,4890,4890,Communication services (Comsat)
-17,Other,Other,4891,4891,Cable TV operators
-17,Other,Other,4892,4892,Telephone interconnect
-17,Other,Other,4899,4899,Misc communication services
-17,Other,Other,4950,4959,Sanitary services
-17,Other,Other,4960,4961,Steam & air conditioning supplies
-17,Other,Other,4970,4971,Irrigation systems
-17,Other,Other,4991,4991,Cogeneration - SM power producer
-17,Other,Other,5040,5042,Wholesale - professional and commercial equipment and supplies
-17,Other,Other,5043,5043,Wholesale - photographic equipment & supplies
-17,Other,Other,5044,5044,Wholesale - office equipment
-17,Other,Other,5045,5045,Wholesale - computers & peripheral equipment & software
-17,Other,Other,5046,5046,Wholesale - commercial equipment
-17,Other,Other,5047,5047,"Wholesale - medical, dental & hospital equipment"
-17,Other,Other,5048,5048,Wholesale - ophthalmic goods
-17,Other,Other,5049,5049,Wholesale - professional equipment and supplies
-17,Other,Other,5082,5082,Wholesale - construction and mining machinery &equipment
-17,Other,Other,5083,5083,Wholesale - farm and garden machinery & equipment
-17,Other,Other,5084,5084,Wholesale - industrial machinery & equipment
-17,Other,Other,5085,5085,Wholesale - industrial supplies
-17,Other,Other,5086,5087,Wholesale - service establishment machinery & equipment (?)
-17,Other,Other,5088,5088,"Wholesale - transportation equipment, except motor vehicles"
-17,Other,Other,5090,5090,Wholesale - Misc durable goods
-17,Other,Other,5091,5092,Wholesale - sporting goods & toys
-17,Other,Other,5093,5093,Wholesale - scrap and waste materials
-17,Other,Other,5100,5100,Wholesale - nondurable goods
-17,Other,Other,5110,5113,Wholesale - paper and paper products
-17,Other,Other,5199,5199,Wholesale - nondurable goods
-17,Other,Other,7000,7000,Hotels & other lodging places
-17,Other,Other,7010,7011,Hotels & motels
-17,Other,Other,7020,7021,Rooming and boarding houses
-17,Other,Other,7030,7033,Camps and recreational vehicle parks
-17,Other,Other,7040,7041,Membership hotels and lodging
-17,Other,Other,7200,7200,Services - personal
-17,Other,Other,7210,7212,"Services - laundry, cleaning & garment services "
-17,Other,Other,7213,7213,Services - linen supply
-17,Other,Other,7215,7216,"Services - coin-operated cleaners, dry cleaners"
-17,Other,Other,7217,7217,Services - carpet & upholstery cleaning
-17,Other,Other,7218,7218,Services - industrial launderers
-17,Other,Other,7219,7219,Services - Misc laundry & garment services
-17,Other,Other,7220,7221,"Services - photographic studios, portrait"
-17,Other,Other,7230,7231,Services - beauty shops
-17,Other,Other,7240,7241,Services - barber shops
-17,Other,Other,7250,7251,Services - shoe repair shops & shoeshine parlors
-17,Other,Other,7260,7269,Services - funeral service & crematories
-17,Other,Other,7290,7290,Services – Misc
-17,Other,Other,7291,7291,Services - tax return
-17,Other,Other,7299,7299,Services - Misc
-17,Other,Other,7300,7300,Services - business services
-17,Other,Other,7310,7319,Services - advertising
-17,Other,Other,7320,7323,"Services - consumer credit reporting agencies, collection services"
-17,Other,Other,7330,7338,"Services - mailing, reproduction, commercial art & photography"
-17,Other,Other,7340,7342,Services - services to dwellings & other buildings
-17,Other,Other,7349,7349,Services - building cleaning & maintenance
-17,Other,Other,7350,7351,Services - Misc equipment rental and leasing
-17,Other,Other,7352,7352,Services - medical equipment rental and leasing
-17,Other,Other,7353,7353,Services - heavy construction equipment rental and leasing
-17,Other,Other,7359,7359,Services - equipment rental and leasing
-17,Other,Other,7360,7369,Services - personnel supply services
-17,Other,Other,7370,7372,Services - computer programming and data processing
-17,Other,Other,7373,7373,Computer integrated systems design
-17,Other,Other,7374,7374,"Services - computer processing, data preparation and processing  "
-17,Other,Other,7375,7375,Services - information retrieval services
-17,Other,Other,7376,7376,Services - computer facilities management service
-17,Other,Other,7377,7377,Services - computer rental and leasing
-17,Other,Other,7378,7378,Services - computer maintenance and repair
-17,Other,Other,7379,7379,Services - computer related services
-17,Other,Other,7380,7380,Services - Misc business services
-17,Other,Other,7381,7382,Services - security
-17,Other,Other,7383,7383,Services - news syndicates
-17,Other,Other,7384,7384,Services - photofinishing labs
-17,Other,Other,7385,7385,Services - telephone interconnect systems
-17,Other,Other,7389,7390,Services - Misc business services
-17,Other,Other,7391,7391,Services - R&D labs
-17,Other,Other,7392,7392,Services - management consulting & P.R.
-17,Other,Other,7393,7393,Services - detective and protective (ADT)
-17,Other,Other,7394,7394,Services - equipment rental & leasing
-17,Other,Other,7395,7395,Services - photofinishing labs (School pictures) services                          
-17,Other,Other,7397,7397,Services - commercial testing labs
-17,Other,Other,7399,7399,Services - business services
-17,Other,Other,7500,7500,"Services - auto repair, services & parking"
-17,Other,Other,7510,7519,"Services - truck, auto, trailer rental and leasing"
-17,Other,Other,7520,7523,Services - automobile parking
-17,Other,Other,7530,7539,Services - automotive repair shops
-17,Other,Other,7540,7549,"Services - automotive services, except repair (car washes)"
-17,Other,Other,7600,7600,Services - Misc repair services
-17,Other,Other,7620,7620,Services - Electrical repair shops
-17,Other,Other,7622,7622,Services - Radio and TV repair shops
-17,Other,Other,7623,7623,Services - Refrigeration and air conditioning service & repair shops
-17,Other,Other,7629,7629,Services - Electrical & electronic repair shops
-17,Other,Other,7630,7631,"Services - Watch, clock and jewelry repair"
-17,Other,Other,7640,7641,Services - Reupholster & furniture repair
-17,Other,Other,7690,7699,Services - Misc repair shops & related services
-17,Other,Other,7800,7829,Services - motion picture production and distribution
-17,Other,Other,7830,7833,Services - motion picture theaters
-17,Other,Other,7840,7841,Services - video rental
-17,Other,Other,7900,7900,Services - amusement and recreation
-17,Other,Other,7910,7911,Services - dance studios
-17,Other,Other,7920,7929,"Services - bands, entertainers"
-17,Other,Other,7930,7933,Services - bowling centers
-17,Other,Other,7940,7949,Services - professional sports
-17,Other,Other,7980,7980,Amusement and recreation services (?)
-17,Other,Other,7990,7999,Services - Misc entertainment
-17,Other,Other,8000,8099,Services - health
-17,Other,Other,8100,8199,Services - legal
-17,Other,Other,8200,8299,Services - educational
-17,Other,Other,8300,8399,Services - social services
-17,Other,Other,8400,8499,"Services - museums, art galleries, botanical and zoological gardens"
-17,Other,Other,8600,8699,Services - membership organizations
-17,Other,Other,8700,8700,"Services - engineering, accounting, research, management"
-17,Other,Other,8710,8713,"Services - engineering, accounting, surveying"
-17,Other,Other,8720,8721,"Services - accounting, auditing, bookkeeping"
-17,Other,Other,8730,8734,"Services - research, development, testing labs"
-17,Other,Other,8740,8748,"Services - management, public relations, consulting"
-17,Other,Other,8800,8899,Services - private households
-17,Other,Other,8900,8910,Services - Misc
-17,Other,Other,8911,8911,Services - Misc engineering & architect
-17,Other,Other,8920,8999,Services - Misc
+group_id,industry_code,sic_start,sic_end,sic_description
+1,Food,100,199,Food: Agricultural production - crops
+1,Food,200,299,Food: Agricultural production - livestock
+1,Food,700,799,Food: Agricultural services
+1,Food,900,999,"Food: Fishing, hunting & trapping"
+1,Food,2000,2009,Food: Food and kindred products
+1,Food,2010,2019,Food: Meat products
+1,Food,2020,2029,Food: Dairy products
+1,Food,2030,2039,Food: Canned & preserved fruits & vegetables
+1,Food,2040,2046,Food: Flour and other grain mill products
+1,Food,2047,2047,Food: Dog and cat food
+1,Food,2048,2048,Food: Prepared feeds for animals
+1,Food,2050,2059,Food: Bakery products
+1,Food,2060,2063,Food: Sugar and confectionery products
+1,Food,2064,2068,Food: Candy and other confectionery
+1,Food,2070,2079,Food: Fats and oils
+1,Food,2080,2080,Food: Beverages
+1,Food,2082,2082,Food: Malt beverages
+1,Food,2083,2083,Food: Malt
+1,Food,2084,2084,Food: Wine
+1,Food,2085,2085,Food: Distilled and blended liquors
+1,Food,2086,2086,Food: Bottled-canned soft drinks
+1,Food,2087,2087,Food: Flavoring syrup
+1,Food,2090,2092,Food: Misc food preparations and kindred products
+1,Food,2095,2095,Food: Roasted coffee
+1,Food,2096,2096,Food: Potato chips
+1,Food,2097,2097,Food: Manufactured ice
+1,Food,2098,2099,Food: Misc food preparations
+1,Food,5140,5149,Food: Wholesale - groceries & related products
+1,Food,5150,5159,Food: Wholesale - farm product raw materials
+1,Food,5180,5182,"Food: Wholesale - beer, wine & distilled alcoholic beverages"
+1,Food,5191,5191,Food: Wholesale - farm supplies
+2,Mines,1000,1009,Mining and Minerals: Metal mining
+2,Mines,1010,1019,Mining and Minerals: Iron ores
+2,Mines,1020,1029,Mining and Minerals: Copper ores
+2,Mines,1030,1039,Mining and Minerals: Lead and zinc ores
+2,Mines,1040,1049,Mining and Minerals: Gold & silver ores
+2,Mines,1060,1069,Mining and Minerals: Ferroalloy ores
+2,Mines,1080,1089,Mining and Minerals: Metal mining services
+2,Mines,1090,1099,Mining and Minerals: Misc metal ores
+2,Mines,1200,1299,Mining and Minerals: Bituminous coal
+2,Mines,1400,1499,Mining and Minerals: Mining and quarrying nonmetallic minerals
+2,Mines,5050,5052,"Mining and Minerals: Wholesale - metals and minerals, except petroleum"
+3,Oil,1300,1300,Oil and Petroleum Products: Oil and gas extraction
+3,Oil,1310,1319,Oil and Petroleum Products: Crude petroleum & natural gas
+3,Oil,1320,1329,Oil and Petroleum Products: Natural gas liquids
+3,Oil,1380,1380,Oil and Petroleum Products: Oil and gas field services
+3,Oil,1381,1381,Oil and Petroleum Products: Drilling oil & gas wells
+3,Oil,1382,1382,Oil and Petroleum Products: Oil & gas field exploration services
+3,Oil,1389,1389,Oil and Petroleum Products: Misc oil & gas field services
+3,Oil,2900,2912,Oil and Petroleum Products: Petroleum refining
+3,Oil,5170,5172,Oil and Petroleum Products: Wholesale - petroleum and petroleum products
+4,Clths,2200,2269,"Textiles, Apparel & Footwear: Textile mill products"
+4,Clths,2270,2279,"Textiles, Apparel & Footwear: Floor covering mills"
+4,Clths,2280,2284,"Textiles, Apparel & Footwear: Yarn and thread mills"
+4,Clths,2290,2295,"Textiles, Apparel & Footwear: Misc textile goods"
+4,Clths,2296,2296,"Textiles, Apparel & Footwear: Tire cord and fabric"
+4,Clths,2297,2297,"Textiles, Apparel & Footwear: Non-woven fabrics"
+4,Clths,2298,2298,"Textiles, Apparel & Footwear: Cordage and twine"
+4,Clths,2299,2299,"Textiles, Apparel & Footwear: Misc textile products"
+4,Clths,2300,2390,"Textiles, Apparel & Footwear: Apparel and other finished products"
+4,Clths,2391,2392,"Textiles, Apparel & Footwear: Curtains, home furnishings"
+4,Clths,2393,2395,"Textiles, Apparel & Footwear: Textile bags, canvas products"
+4,Clths,2396,2396,"Textiles, Apparel & Footwear: Automotive trimmings, apparel findings & related products"
+4,Clths,2397,2399,"Textiles, Apparel & Footwear: Misc textile products"
+4,Clths,3020,3021,"Textiles, Apparel & Footwear: Rubber and plastics footwear"
+4,Clths,3100,3111,"Textiles, Apparel & Footwear: Leather tanning and finishing"
+4,Clths,3130,3131,"Textiles, Apparel & Footwear: Boot & shoe cut stock & findings"
+4,Clths,3140,3149,"Textiles, Apparel & Footwear: Footwear, except rubber"
+4,Clths,3150,3151,"Textiles, Apparel & Footwear: Leather gloves and mittens"
+4,Clths,3963,3965,"Textiles, Apparel & Footwear: Fasteners, buttons, needles, pins"
+4,Clths,5130,5139,"Textiles, Apparel & Footwear: Wholesale - apparel, piece goods & notions"
+5,Durbl,2510,2519,Consumer Durables: Household furniture
+5,Durbl,2590,2599,Consumer Durables: Misc furniture and fixtures
+5,Durbl,3060,3069,Consumer Durables: Fabricated rubber products
+5,Durbl,3070,3079,Consumer Durables: Misc rubber products (?)
+5,Durbl,3080,3089,Consumer Durables: Misc plastic products
+5,Durbl,3090,3099,Consumer Durables: Misc rubber and plastic products (?)
+5,Durbl,3630,3639,Consumer Durables: Household appliances
+5,Durbl,3650,3651,Consumer Durables: Household audio visual equipment
+5,Durbl,3652,3652,Consumer Durables: Phonograph records
+5,Durbl,3860,3861,"Consumer Durables: Photographic equipment  (Kodak etc, but also Xerox)"
+5,Durbl,3870,3873,"Consumer Durables: Watches, clocks and parts"
+5,Durbl,3910,3911,"Consumer Durables: Jewelry, precious metals"
+5,Durbl,3914,3914,Consumer Durables: Silverware
+5,Durbl,3915,3915,Consumer Durables: Jewelers' findings and materials
+5,Durbl,3930,3931,Consumer Durables: Musical instruments
+5,Durbl,3940,3949,Consumer Durables: Toys
+5,Durbl,3960,3962,Consumer Durables: Costume jewelry and novelties
+5,Durbl,5020,5023,Consumer Durables: Wholesale - furniture and home furnishings
+5,Durbl,5064,5064,"Consumer Durables: Wholesale - electrical appliance, TV and radio sets"
+5,Durbl,5094,5094,"Consumer Durables: Wholesale - jewelry, watches, precious stones & metals"
+5,Durbl,5099,5099,Consumer Durables: Wholesale - durable goods
+6,Chems,2800,2809,Chemicals: Chemicals and allied products
+6,Chems,2810,2819,Chemicals: Industrial inorganic chemicals
+6,Chems,2820,2829,Chemicals: Plastic material & synthetic resin/rubber
+6,Chems,2860,2869,Chemicals: Industrial organic chemicals
+6,Chems,2870,2879,Chemicals: Agriculture chemicals
+6,Chems,2890,2899,Chemicals: Misc chemical products
+6,Chems,5160,5169,Chemicals: Wholesale - chemicals & allied products
+7,Cnsum,2100,2199,"Drugs, Soap, Perfumes, Tobacco: Tobacco products"
+7,Cnsum,2830,2830,"Drugs, Soap, Perfumes, Tobacco: Drugs"
+7,Cnsum,2831,2831,"Drugs, Soap, Perfumes, Tobacco: Biological products"
+7,Cnsum,2833,2833,"Drugs, Soap, Perfumes, Tobacco: Medicinal chemicals"
+7,Cnsum,2834,2834,"Drugs, Soap, Perfumes, Tobacco: Pharmaceutical preparations"
+7,Cnsum,2840,2843,"Drugs, Soap, Perfumes, Tobacco: Soap & other detergents"
+7,Cnsum,2844,2844,"Drugs, Soap, Perfumes, Tobacco: Perfumes, cosmetics and other toilet preparations"
+7,Cnsum,5120,5122,"Drugs, Soap, Perfumes, Tobacco: Wholesale - drugs & drug proprietaries"
+7,Cnsum,5194,5194,"Drugs, Soap, Perfumes, Tobacco: Wholesale - tobacco and tobacco products"
+8,Cnstr,800,899,Construction and Construction Materials: Forestry
+8,Cnstr,1500,1511,Construction and Construction Materials: Build construction - general contractors
+8,Cnstr,1520,1529,Construction and Construction Materials: General building contractors - residential
+8,Cnstr,1530,1539,Construction and Construction Materials: Operative builders
+8,Cnstr,1540,1549,Construction and Construction Materials: General building contractors - non-residential
+8,Cnstr,1600,1699,Construction and Construction Materials: Heavy construction - not building contractors
+8,Cnstr,1700,1799,Construction and Construction Materials: Construction - special contractors
+8,Cnstr,2400,2439,Construction and Construction Materials: Lumber and wood products
+8,Cnstr,2440,2449,Construction and Construction Materials: Wood containers
+8,Cnstr,2450,2459,Construction and Construction Materials: Wood buildings & mobile homes
+8,Cnstr,2490,2499,Construction and Construction Materials: Misc wood products
+8,Cnstr,2850,2859,Construction and Construction Materials: Paints
+8,Cnstr,2950,2952,Construction and Construction Materials: Paving & roofing materials
+8,Cnstr,3200,3200,"Construction and Construction Materials: Stone, clay, glass, concrete, etc"
+8,Cnstr,3210,3211,Construction and Construction Materials: Flat glass
+8,Cnstr,3240,3241,"Construction and Construction Materials: Cement, hydraulic"
+8,Cnstr,3250,3259,Construction and Construction Materials: Structural clay products
+8,Cnstr,3261,3261,Construction and Construction Materials: Vitreous china plumbing fixtures
+8,Cnstr,3264,3264,Construction and Construction Materials: Porcelain electrical supplies
+8,Cnstr,3270,3275,"Construction and Construction Materials: Concrete, gypsum & plaster products"
+8,Cnstr,3280,3281,Construction and Construction Materials: Cut stone and stone products
+8,Cnstr,3290,3293,Construction and Construction Materials: Abrasive and asbestos products
+8,Cnstr,3420,3429,"Construction and Construction Materials: Cutlery, hand tools and general hardware"
+8,Cnstr,3430,3433,Construction and Construction Materials: Heating equipment & plumbing fixtures
+8,Cnstr,3440,3441,Construction and Construction Materials: Fabricated structural metal products
+8,Cnstr,3442,3442,"Construction and Construction Materials: Metal doors, frames"
+8,Cnstr,3446,3446,Construction and Construction Materials: Architectural or ornamental metal work
+8,Cnstr,3448,3448,Construction and Construction Materials: Prefabricated metal buildings and components
+8,Cnstr,3449,3449,Construction and Construction Materials: Misc structural metal work
+8,Cnstr,3450,3451,Construction and Construction Materials: Screw machine products
+8,Cnstr,3452,3452,"Construction and Construction Materials: Bolts, nuts, screws, rivets and washers"
+8,Cnstr,5030,5039,Construction and Construction Materials: Wholesale - lumber and construction materials
+8,Cnstr,5070,5078,"Construction and Construction Materials: Wholesale - hardware, plumbing & heating equipment"
+8,Cnstr,5198,5198,"Construction and Construction Materials: Wholesale - Paints, varnishes, and supplies"
+8,Cnstr,5210,5211,Construction and Construction Materials: Retail - lumber & other building materials
+8,Cnstr,5230,5231,"Construction and Construction Materials: Retail - paint, glass & wallpaper stores"
+8,Cnstr,5250,5251,Construction and Construction Materials: Retail - hardware stores
+9,Steel,3300,3300,Steel Works Etc: Primary metal industries
+9,Steel,3310,3317,Steel Works Etc: Blast furnaces & steel works
+9,Steel,3320,3325,Steel Works Etc: Iron & steel foundries
+9,Steel,3330,3339,Steel Works Etc: Primary smelting & refining of nonferrous metals
+9,Steel,3340,3341,Steel Works Etc: Secondary smelting & refining of nonferrous metals
+9,Steel,3350,3357,"Steel Works Etc: Rolling, drawing & extruding of nonferrous metals"
+9,Steel,3360,3369,Steel Works Etc: Nonferrous foundries and casting
+9,Steel,3390,3399,Steel Works Etc: Misc primary metal products
+10,FabPr,3410,3412,Fabricated Products: Metal cans and shipping containers
+10,FabPr,3443,3443,Fabricated Products: Fabricated plate work
+10,FabPr,3444,3444,Fabricated Products: Sheet metal work
+10,FabPr,3460,3469,Fabricated Products: Metal forgings and stampings
+10,FabPr,3470,3479,"Fabricated Products: Coating, engraving and allied services"
+10,FabPr,3480,3489,Fabricated Products: Ordnance & accessories
+10,FabPr,3490,3499,Fabricated Products: Misc fabricated metal products
+11,Machn,3510,3519,Machinery and Business Equipment: Engines & turbines
+11,Machn,3520,3529,Machinery and Business Equipment: Farm and garden machinery and equipment
+11,Machn,3530,3530,"Machinery and Business Equipment: Construction, mining & material handling machinery & equipment"
+11,Machn,3531,3531,Machinery and Business Equipment: Construction machinery & equipment
+11,Machn,3532,3532,"Machinery and Business Equipment: Mining machinery & equipment, except oil field"
+11,Machn,3533,3533,Machinery and Business Equipment: Oil & gas field machinery & equipment
+11,Machn,3534,3534,Machinery and Business Equipment: Elevators & moving stairways
+11,Machn,3535,3535,Machinery and Business Equipment: Conveyors & conveying equipment
+11,Machn,3536,3536,"Machinery and Business Equipment: Cranes, hoists and monorail systems"
+11,Machn,3540,3549,Machinery and Business Equipment: Metalworking machinery & equipment
+11,Machn,3550,3559,Machinery and Business Equipment: Special industry machinery
+11,Machn,3560,3569,Machinery and Business Equipment: General industrial machinery & equipment
+11,Machn,3570,3579,Machinery and Business Equipment: Computer & office equipment
+11,Machn,3580,3580,Machinery and Business Equipment: Refrigeration & service industry machinery
+11,Machn,3581,3581,Machinery and Business Equipment: Automatic vending machines
+11,Machn,3582,3582,Machinery and Business Equipment: Commercial laundry and dry-cleaning machines
+11,Machn,3585,3585,"Machinery and Business Equipment: Air conditioning, warm air heating and refrigeration equipment"
+11,Machn,3586,3586,Machinery and Business Equipment: Measuring and dispensing pumps
+11,Machn,3589,3589,Machinery and Business Equipment: Service industry machinery
+11,Machn,3590,3599,Machinery and Business Equipment: Misc industrial and commercial equipment and machinery
+11,Machn,3600,3600,Machinery and Business Equipment: Electronic & other electrical equipment
+11,Machn,3610,3613,Machinery and Business Equipment: Electric transmission and distribution equipment
+11,Machn,3620,3621,Machinery and Business Equipment: Electrical industrial apparatus
+11,Machn,3622,3622,Machinery and Business Equipment: Industrial controls
+11,Machn,3623,3629,Machinery and Business Equipment: Electrical industrial apparatus
+11,Machn,3670,3679,Machinery and Business Equipment: Electronic components & accessories
+11,Machn,3680,3680,Machinery and Business Equipment: Computers
+11,Machn,3681,3681,Machinery and Business Equipment: Computers - mini
+11,Machn,3682,3682,Machinery and Business Equipment: Computers - mainframe
+11,Machn,3683,3683,Machinery and Business Equipment: Computers - terminals
+11,Machn,3684,3684,Machinery and Business Equipment: Computers - disk & tape drives
+11,Machn,3685,3685,Machinery and Business Equipment: Computers - optical scanners
+11,Machn,3686,3686,Machinery and Business Equipment: Computers - graphics
+11,Machn,3687,3687,Machinery and Business Equipment: Computers - office automation systems
+11,Machn,3688,3688,Machinery and Business Equipment: Computers - peripherals
+11,Machn,3689,3689,Machinery and Business Equipment: Computers - equipment
+11,Machn,3690,3690,Machinery and Business Equipment: Misc electrical machinery and equipment
+11,Machn,3691,3692,Machinery and Business Equipment: Storage batteries
+11,Machn,3693,3693,"Machinery and Business Equipment: X-ray, electromedical app"
+11,Machn,3694,3694,Machinery and Business Equipment: Electrical equipment for internal combustion engines
+11,Machn,3695,3695,Machinery and Business Equipment: Magnetic and optical recording media
+11,Machn,3699,3699,"Machinery and Business Equipment: Misc electrical machinery, equipment and supplies"
+11,Machn,3810,3810,"Machinery and Business Equipment: Search, detection, navigation, guidance"
+11,Machn,3811,3811,Machinery and Business Equipment: Engr lab and research equipment
+11,Machn,3812,3812,"Machinery and Business Equipment: Search, detection, navigation, guidance"
+11,Machn,3820,3820,Machinery and Business Equipment: Measuring and controlling equipment
+11,Machn,3821,3821,Machinery and Business Equipment: Laboratory apparatus and furniture
+11,Machn,3822,3822,Machinery and Business Equipment: Automatic controls for regulating residential & commercial environments & appliances
+11,Machn,3823,3823,Machinery and Business Equipment: Industrial measurement instruments & related products
+11,Machn,3824,3824,Machinery and Business Equipment: Totalizing fluid meters & counting devices
+11,Machn,3825,3825,Machinery and Business Equipment: Instruments for measuring & testing of electricity & electrical instruments
+11,Machn,3826,3826,Machinery and Business Equipment: Lab analytical instruments
+11,Machn,3827,3827,Machinery and Business Equipment: Optical instruments and lenses
+11,Machn,3829,3829,Machinery and Business Equipment: Misc measuring and controlling devices
+11,Machn,3830,3839,Machinery and Business Equipment: Optical instruments and lenses
+11,Machn,3950,3955,"Machinery and Business Equipment: Pens, pencils & other artists’ supplies"
+11,Machn,5060,5060,Machinery and Business Equipment: Wholesale - electrical goods
+11,Machn,5063,5063,Machinery and Business Equipment: Wholesale - electrical apparatus and equipment
+11,Machn,5065,5065,Machinery and Business Equipment: Wholesale - electronic parts & equipment
+11,Machn,5080,5080,"Machinery and Business Equipment: Wholesale - machinery, equipment & supplies"
+11,Machn,5081,5081,Machinery and Business Equipment: Wholesale - machinery & equipment (?)
+12,Cars,3710,3710,Automobiles: Motor vehicles and motor vehicle equipment
+12,Cars,3711,3711,Automobiles: Motor vehicles & passenger car bodies
+12,Cars,3714,3714,Automobiles: Motor vehicle parts & accessories
+12,Cars,3716,3716,Automobiles: Motor homes
+12,Cars,3750,3751,"Automobiles: Motorcycles, bicycles and parts  (Harley & Huffy)"
+12,Cars,3792,3792,Automobiles: Travel trailers and campers
+12,Cars,5010,5015,Automobiles: Wholesale - automotive vehicles & automotive parts & supplies
+12,Cars,5510,5521,Automobiles: Retail - automotive dealers
+12,Cars,5530,5531,Automobiles: Retail - automotive and home supply stores
+12,Cars,5560,5561,Automobiles: Retail - recreation vehicle dealers
+12,Cars,5570,5571,Automobiles: Retail - motorcycle dealers
+12,Cars,5590,5599,Automobiles: Retail - automotive dealers
+13,Trans,3713,3713,Transportation: Truck & bus bodies
+13,Trans,3715,3715,Transportation: Truck trailers
+13,Trans,3720,3720,Transportation: Aircraft & parts
+13,Trans,3721,3721,Transportation: Aircraft
+13,Trans,3724,3724,Transportation: Aircraft engines & engine parts
+13,Trans,3725,3725,Transportation: Aircraft parts
+13,Trans,3728,3728,Transportation: Misc aircraft parts & auxiliary equipment
+13,Trans,3730,3731,Transportation: Ship building and repairing
+13,Trans,3732,3732,Transportation: Boat building and repairing
+13,Trans,3740,3743,Transportation: Railroad Equipment
+13,Trans,3760,3769,Transportation: Guided missiles and space vehicles
+13,Trans,3790,3790,Transportation: Misc transmission equipment
+13,Trans,3795,3795,Transportation: Tanks and tank components
+13,Trans,3799,3799,Transportation: Misc transmission equipment
+13,Trans,4000,4013,"Transportation: Railroads, line-haul operating"
+13,Trans,4100,4100,Transportation: Local & suburban transit & interurban highway passenger transportation
+13,Trans,4110,4119,Transportation: Local & suburban passenger transportation
+13,Trans,4120,4121,Transportation: Taxicabs
+13,Trans,4130,4131,Transportation: Intercity & rural bus transportation (Greyhound)
+13,Trans,4140,4142,Transportation: Bus charter service
+13,Trans,4150,4151,Transportation: School buses
+13,Trans,4170,4173,Transportation: Motor vehicle terminals & service facilities
+13,Trans,4190,4199,Transportation: Misc transit and passenger transportation
+13,Trans,4200,4200,Transportation: Trucking & warehousing
+13,Trans,4210,4219,"Transportation: Trucking & courier services, except air"
+13,Trans,4220,4229,Transportation: Public warehousing and storage
+13,Trans,4230,4231,Transportation: Terminal & joint terminal maintenance
+13,Trans,4400,4499,Transportation: Water transport
+13,Trans,4500,4599,Transportation: Air transportation
+13,Trans,4600,4699,"Transportation: Pipelines, except natural gas"
+13,Trans,4700,4700,Transportation: Transportation services
+13,Trans,4710,4712,Transportation: Freight forwarding
+13,Trans,4720,4729,Transportation: Arrangement of passenger transportation
+13,Trans,4730,4739,Transportation: Arrangement of transportation of freight and cargo
+13,Trans,4740,4742,Transportation: Rental of railroad cars
+13,Trans,4780,4780,Transportation: Misc services incidental to transportation
+13,Trans,4783,4783,Transportation: Packing and crating
+13,Trans,4785,4785,Transportation: Motor vehicle inspection
+13,Trans,4789,4789,Transportation: Misc transportation services
+14,Utils,4900,4900,"Utilities: Electric, gas & sanitary services"
+14,Utils,4910,4911,Utilities: Electric services
+14,Utils,4920,4922,Utilities: Natural gas transmission
+14,Utils,4923,4923,Utilities: Natural gas transmission & distribution
+14,Utils,4924,4925,Utilities: Natural gas distribution
+14,Utils,4930,4931,Utilities: Electric and other services combined
+14,Utils,4932,4932,Utilities: Gas and other services combined
+14,Utils,4939,4939,Utilities: Misc combination utilities
+14,Utils,4940,4942,Utilities: Water supply
+15,Rtail,5260,5261,"Retail Stores: Retail - nurseries, lawn & garden supply stores"
+15,Rtail,5270,5271,Retail Stores: Retail - mobile home dealers
+15,Rtail,5300,5300,Retail Stores: Retail - general merchandise stores
+15,Rtail,5310,5311,Retail Stores: Retail - department stores
+15,Rtail,5320,5320,Retail Stores: Retail - general merchandise stores (?)
+15,Rtail,5330,5331,Retail Stores: Retail - variety stores
+15,Rtail,5334,5334,Retail Stores: Retail - catalog showroom
+15,Rtail,5390,5399,Retail Stores: Retail - Misc general merchandise stores
+15,Rtail,5400,5400,Retail Stores: Retail - food stores
+15,Rtail,5410,5411,Retail Stores: Retail - grocery stores
+15,Rtail,5412,5412,Retail Stores: Retail - convenience stores
+15,Rtail,5420,5421,Retail Stores: Retail - meat & fish markets
+15,Rtail,5430,5431,Retail Stores: Retail - fruit and vegetable markets
+15,Rtail,5440,5441,"Retail Stores: Retail - candy, nut & confectionary stores"
+15,Rtail,5450,5451,Retail Stores: Retail - dairy products stores
+15,Rtail,5460,5461,Retail Stores: Retail - bakeries
+15,Rtail,5490,5499,Retail Stores: Retail - Misc food stores
+15,Rtail,5540,5541,Retail Stores: Retail - gasoline service stations
+15,Rtail,5550,5551,Retail Stores: Retail - boat dealers
+15,Rtail,5600,5699,Retail Stores: Retail - apparel & accessory stores
+15,Rtail,5700,5700,Retail Stores: Retail - home furniture and equipment stores
+15,Rtail,5710,5719,Retail Stores: Retail - home furnishings stores
+15,Rtail,5720,5722,Retail Stores: Retail - household appliance stores
+15,Rtail,5730,5733,"Retail Stores: Retail - radio, TV and consumer electronic stores"
+15,Rtail,5734,5734,Retail Stores: Retail - computer and computer software stores
+15,Rtail,5735,5735,Retail Stores: Retail - record and tape stores
+15,Rtail,5736,5736,Retail Stores: Retail - musical instrument stores
+15,Rtail,5750,5750,Retail Stores: Retail - (?)
+15,Rtail,5800,5813,Retail Stores: Retail - eating places
+15,Rtail,5890,5890,Retail Stores: Eating and drinking places
+15,Rtail,5900,5900,Retail Stores: Retail - Misc
+15,Rtail,5910,5912,Retail Stores: Retail - drug & proprietary stores
+15,Rtail,5920,5921,Retail Stores: Retail - liquor stores
+15,Rtail,5930,5932,Retail Stores: Retail - used merchandise stores
+15,Rtail,5940,5940,Retail Stores: Retail - Misc
+15,Rtail,5941,5941,Retail Stores: Retail - sporting goods stores & bike shops
+15,Rtail,5942,5942,Retail Stores: Retail - book stores
+15,Rtail,5943,5943,Retail Stores: Retail - stationery stores
+15,Rtail,5944,5944,Retail Stores: Retail - jewelry stores
+15,Rtail,5945,5945,"Retail Stores: Retail - hobby, toy and game shops"
+15,Rtail,5946,5946,Retail Stores: Retail - camera and photographic supply stores
+15,Rtail,5947,5947,"Retail Stores: Retail - gift, novelty & souvenir shops"
+15,Rtail,5948,5948,Retail Stores: Retail - luggage & leather goods stores
+15,Rtail,5949,5949,Retail Stores: Retail - sewing & needlework stores
+15,Rtail,5960,5963,"Retail Stores: Retail - non-store retailers (catalogs, etc)"
+15,Rtail,5980,5989,Retail Stores: Retail - fuel dealers & ice stores (Penn Central Co)
+15,Rtail,5990,5990,Retail Stores: Retail - Misc retail stores
+15,Rtail,5992,5992,Retail Stores: Retail - florists
+15,Rtail,5993,5993,Retail Stores: Retail - tobacco stores and stands
+15,Rtail,5994,5994,Retail Stores: Retail - newsdealers and news stands
+15,Rtail,5995,5995,Retail Stores: Retail - optical goods stores
+15,Rtail,5999,5999,Retail Stores: Misc retail stores
+16,Finan,6010,6019,"Banks, Insurance Companies, and Other Financials: Federal reserve banks"
+16,Finan,6020,6020,"Banks, Insurance Companies, and Other Financials: Commercial banks"
+16,Finan,6021,6021,"Banks, Insurance Companies, and Other Financials: National commercial banks"
+16,Finan,6022,6022,"Banks, Insurance Companies, and Other Financials: State commercial banks - Fed Res System"
+16,Finan,6023,6023,"Banks, Insurance Companies, and Other Financials: State commercial banks - not Fed Res System"
+16,Finan,6025,6025,"Banks, Insurance Companies, and Other Financials: National commercial banks - Fed Res System"
+16,Finan,6026,6026,"Banks, Insurance Companies, and Other Financials: National commercial banks - not Fed Res System"
+16,Finan,6028,6029,"Banks, Insurance Companies, and Other Financials: Misc commercial banks"
+16,Finan,6030,6036,"Banks, Insurance Companies, and Other Financials: Savings institutions"
+16,Finan,6040,6049,"Banks, Insurance Companies, and Other Financials: Trust companies, non-deposit"
+16,Finan,6050,6059,"Banks, Insurance Companies, and Other Financials: Functions closely related to banking"
+16,Finan,6060,6062,"Banks, Insurance Companies, and Other Financials: Credit unions"
+16,Finan,6080,6082,"Banks, Insurance Companies, and Other Financials: Foreign banks"
+16,Finan,6090,6099,"Banks, Insurance Companies, and Other Financials: Functions related to depository banking"
+16,Finan,6100,6100,"Banks, Insurance Companies, and Other Financials: Non-depository credit institutions"
+16,Finan,6110,6111,"Banks, Insurance Companies, and Other Financials: Federal credit agencies"
+16,Finan,6112,6112,"Banks, Insurance Companies, and Other Financials: FNMA"
+16,Finan,6120,6129,"Banks, Insurance Companies, and Other Financials: S&Ls"
+16,Finan,6140,6149,"Banks, Insurance Companies, and Other Financials: Personal credit institutions (Beneficial)"
+16,Finan,6150,6159,"Banks, Insurance Companies, and Other Financials: Business credit institutions"
+16,Finan,6160,6163,"Banks, Insurance Companies, and Other Financials: Mortgage bankers"
+16,Finan,6172,6172,"Banks, Insurance Companies, and Other Financials: Finance lessors"
+16,Finan,6199,6199,"Banks, Insurance Companies, and Other Financials: Financial services"
+16,Finan,6200,6299,"Banks, Insurance Companies, and Other Financials: Security and commodity brokers, dealers, exchanges & services"
+16,Finan,6300,6300,"Banks, Insurance Companies, and Other Financials: Insurance"
+16,Finan,6310,6312,"Banks, Insurance Companies, and Other Financials: Life insurance"
+16,Finan,6320,6324,"Banks, Insurance Companies, and Other Financials: Accident and health insurance"
+16,Finan,6330,6331,"Banks, Insurance Companies, and Other Financials: Fire, marine & casualty insurance"
+16,Finan,6350,6351,"Banks, Insurance Companies, and Other Financials: Surety insurance"
+16,Finan,6360,6361,"Banks, Insurance Companies, and Other Financials: Title insurance"
+16,Finan,6370,6371,"Banks, Insurance Companies, and Other Financials: Pension, health & welfare funds"
+16,Finan,6390,6399,"Banks, Insurance Companies, and Other Financials: Misc insurance carriers"
+16,Finan,6400,6411,"Banks, Insurance Companies, and Other Financials: Insurance agents, brokers & service"
+16,Finan,6500,6500,"Banks, Insurance Companies, and Other Financials: Real estate"
+16,Finan,6510,6510,"Banks, Insurance Companies, and Other Financials: Real estate operators and lessors"
+16,Finan,6512,6512,"Banks, Insurance Companies, and Other Financials: Operators - non-resident buildings"
+16,Finan,6513,6513,"Banks, Insurance Companies, and Other Financials: Operators - apartment buildings"
+16,Finan,6514,6514,"Banks, Insurance Companies, and Other Financials: Operators - other than apartment"
+16,Finan,6515,6515,"Banks, Insurance Companies, and Other Financials: Operators - residential mobile home"
+16,Finan,6517,6519,"Banks, Insurance Companies, and Other Financials: Lessors of railroad & real property"
+16,Finan,6530,6531,"Banks, Insurance Companies, and Other Financials: Real estate agents and managers"
+16,Finan,6532,6532,"Banks, Insurance Companies, and Other Financials: Real estate dealers"
+16,Finan,6540,6541,"Banks, Insurance Companies, and Other Financials: Title abstract offices"
+16,Finan,6550,6553,"Banks, Insurance Companies, and Other Financials: Land subdividers & developers"
+16,Finan,6611,6611,"Banks, Insurance Companies, and Other Financials: Combined real estate, insurance, etc"
+16,Finan,6700,6700,"Banks, Insurance Companies, and Other Financials: Holding & other investment offices"
+16,Finan,6710,6719,"Banks, Insurance Companies, and Other Financials: Holding offices"
+16,Finan,6720,6722,"Banks, Insurance Companies, and Other Financials: Management investment offices, open-end"
+16,Finan,6723,6723,"Banks, Insurance Companies, and Other Financials: Management investment offices, closed-end"
+16,Finan,6724,6724,"Banks, Insurance Companies, and Other Financials: Unit investment trusts"
+16,Finan,6725,6725,"Banks, Insurance Companies, and Other Financials: Face-amount certificate offices"
+16,Finan,6726,6726,"Banks, Insurance Companies, and Other Financials: Unit investment trusts, closed-end"
+16,Finan,6730,6733,"Banks, Insurance Companies, and Other Financials: Trusts"
+16,Finan,6790,6790,"Banks, Insurance Companies, and Other Financials: Misc investing"
+16,Finan,6792,6792,"Banks, Insurance Companies, and Other Financials: Oil royalty traders"
+16,Finan,6794,6794,"Banks, Insurance Companies, and Other Financials: Patent owners & lessors"
+16,Finan,6795,6795,"Banks, Insurance Companies, and Other Financials: Mineral royalty traders"
+16,Finan,6798,6798,"Banks, Insurance Companies, and Other Financials: REIT"
+16,Finan,6799,6799,"Banks, Insurance Companies, and Other Financials: Investors, NEC"
+17,Other,2520,2549,Other: Office furniture and fixtures
+17,Other,2600,2639,Other: Paper and allied products
+17,Other,2640,2659,"Other: Paperboard containers, boxes, drums, tubs"
+17,Other,2661,2661,Other: Building paper and board mills
+17,Other,2670,2699,Other: Paper and allied products
+17,Other,2700,2709,Other: Printing publishing and allied
+17,Other,2710,2719,Other: Newspapers: publishing-printing
+17,Other,2720,2729,Other: Periodicals: publishing-printing
+17,Other,2730,2739,Other: Books: publishing-printing
+17,Other,2740,2749,Other: Misc publishing
+17,Other,2750,2759,Other: Commercial printing
+17,Other,2760,2761,Other: Manifold business forms
+17,Other,2770,2771,Other: Greeting card
+17,Other,2780,2789,Other: Bookbinding
+17,Other,2790,2799,Other: Service industries for the print trade
+17,Other,2835,2835,"Other: In vitro, in vivo diagnostic substances"
+17,Other,2836,2836,"Other: Biological products, except diagnostic substances"
+17,Other,2990,2999,Other: Misc products of petroleum & coal
+17,Other,3000,3000,Other: Rubber & misc plastic products
+17,Other,3010,3011,Other: Tires and inner tubes
+17,Other,3041,3041,Other: Rubber & plastic hose & belting
+17,Other,3050,3053,"Other: Gaskets, hoses, etc"
+17,Other,3160,3161,Other: Luggage
+17,Other,3170,3171,Other: Handbags and purses
+17,Other,3172,3172,"Other: Personal leather goods, except handbags and purses"
+17,Other,3190,3199,Other: Leather goods
+17,Other,3220,3221,Other: Glass containers
+17,Other,3229,3229,Other: Pressed and blown glass
+17,Other,3230,3231,Other: Glass products
+17,Other,3260,3260,Other: Pottery and related products
+17,Other,3262,3263,Other: China and earthenware table articles
+17,Other,3269,3269,Other: Pottery products
+17,Other,3295,3299,Other: Misc nonmetallic mineral products
+17,Other,3537,3537,"Other: Industrial trucks, tractors, trailers & stackers"
+17,Other,3640,3644,Other: Electric lighting & wiring equipment
+17,Other,3645,3645,Other: Residential electric lighting fixtures
+17,Other,3646,3646,"Other: Commercial, industrial and institutional electric lighting fixtures"
+17,Other,3647,3647,Other: Vehicular lighting equipment
+17,Other,3648,3649,Other: Misc lighting equipment
+17,Other,3660,3660,Other: Communications equipment
+17,Other,3661,3661,Other: Telephone and telegraph apparatus
+17,Other,3662,3662,Other: Communications equipment
+17,Other,3663,3663,Other: Radio & TV broadcasting & communications equipment
+17,Other,3664,3664,"Other: Search, navigation, guidance systems"
+17,Other,3665,3665,Other: Training equipment & simulators
+17,Other,3666,3666,Other: Alarm & signaling products
+17,Other,3669,3669,Other: Communication equipment
+17,Other,3840,3849,"Other: Surgical, medical, and dental instruments and supplies"
+17,Other,3850,3851,Other: Ophthalmic goods
+17,Other,3991,3991,Other: Brooms and brushes
+17,Other,3993,3993,Other: Signs & advertising specialties
+17,Other,3995,3995,Other: Burial caskets
+17,Other,3996,3996,Other: Hard surface floor coverings
+17,Other,4810,4813,Other: Telephone communications
+17,Other,4820,4822,Other: Telegraph and other message communication
+17,Other,4830,4839,Other: Radio & TV broadcasters
+17,Other,4840,4841,Other: Cable and other pay TV services
+17,Other,4890,4890,Other: Communication services (Comsat)
+17,Other,4891,4891,Other: Cable TV operators
+17,Other,4892,4892,Other: Telephone interconnect
+17,Other,4899,4899,Other: Misc communication services
+17,Other,4950,4959,Other: Sanitary services
+17,Other,4960,4961,Other: Steam & air conditioning supplies
+17,Other,4970,4971,Other: Irrigation systems
+17,Other,4991,4991,Other: Cogeneration - SM power producer
+17,Other,5040,5042,Other: Wholesale - professional and commercial equipment and supplies
+17,Other,5043,5043,Other: Wholesale - photographic equipment & supplies
+17,Other,5044,5044,Other: Wholesale - office equipment
+17,Other,5045,5045,Other: Wholesale - computers & peripheral equipment & software
+17,Other,5046,5046,Other: Wholesale - commercial equipment
+17,Other,5047,5047,"Other: Wholesale - medical, dental & hospital equipment"
+17,Other,5048,5048,Other: Wholesale - ophthalmic goods
+17,Other,5049,5049,Other: Wholesale - professional equipment and supplies
+17,Other,5082,5082,Other: Wholesale - construction and mining machinery &equipment
+17,Other,5083,5083,Other: Wholesale - farm and garden machinery & equipment
+17,Other,5084,5084,Other: Wholesale - industrial machinery & equipment
+17,Other,5085,5085,Other: Wholesale - industrial supplies
+17,Other,5086,5087,Other: Wholesale - service establishment machinery & equipment (?)
+17,Other,5088,5088,"Other: Wholesale - transportation equipment, except motor vehicles"
+17,Other,5090,5090,Other: Wholesale - Misc durable goods
+17,Other,5091,5092,Other: Wholesale - sporting goods & toys
+17,Other,5093,5093,Other: Wholesale - scrap and waste materials
+17,Other,5100,5100,Other: Wholesale - nondurable goods
+17,Other,5110,5113,Other: Wholesale - paper and paper products
+17,Other,5199,5199,Other: Wholesale - nondurable goods
+17,Other,7000,7000,Other: Hotels & other lodging places
+17,Other,7010,7011,Other: Hotels & motels
+17,Other,7020,7021,Other: Rooming and boarding houses
+17,Other,7030,7033,Other: Camps and recreational vehicle parks
+17,Other,7040,7041,Other: Membership hotels and lodging
+17,Other,7200,7200,Other: Services - personal
+17,Other,7210,7212,"Other: Services - laundry, cleaning & garment services"
+17,Other,7213,7213,Other: Services - linen supply
+17,Other,7215,7216,"Other: Services - coin-operated cleaners, dry cleaners"
+17,Other,7217,7217,Other: Services - carpet & upholstery cleaning
+17,Other,7218,7218,Other: Services - industrial launderers
+17,Other,7219,7219,Other: Services - Misc laundry & garment services
+17,Other,7220,7221,"Other: Services - photographic studios, portrait"
+17,Other,7230,7231,Other: Services - beauty shops
+17,Other,7240,7241,Other: Services - barber shops
+17,Other,7250,7251,Other: Services - shoe repair shops & shoeshine parlors
+17,Other,7260,7269,Other: Services - funeral service & crematories
+17,Other,7290,7290,Other: Services – Misc
+17,Other,7291,7291,Other: Services - tax return
+17,Other,7299,7299,Other: Services - Misc
+17,Other,7300,7300,Other: Services - business services
+17,Other,7310,7319,Other: Services - advertising
+17,Other,7320,7323,"Other: Services - consumer credit reporting agencies, collection services"
+17,Other,7330,7338,"Other: Services - mailing, reproduction, commercial art & photography"
+17,Other,7340,7342,Other: Services - services to dwellings & other buildings
+17,Other,7349,7349,Other: Services - building cleaning & maintenance
+17,Other,7350,7351,Other: Services - Misc equipment rental and leasing
+17,Other,7352,7352,Other: Services - medical equipment rental and leasing
+17,Other,7353,7353,Other: Services - heavy construction equipment rental and leasing
+17,Other,7359,7359,Other: Services - equipment rental and leasing
+17,Other,7360,7369,Other: Services - personnel supply services
+17,Other,7370,7372,Other: Services - computer programming and data processing
+17,Other,7373,7373,Other: Computer integrated systems design
+17,Other,7374,7374,"Other: Services - computer processing, data preparation and processing"
+17,Other,7375,7375,Other: Services - information retrieval services
+17,Other,7376,7376,Other: Services - computer facilities management service
+17,Other,7377,7377,Other: Services - computer rental and leasing
+17,Other,7378,7378,Other: Services - computer maintenance and repair
+17,Other,7379,7379,Other: Services - computer related services
+17,Other,7380,7380,Other: Services - Misc business services
+17,Other,7381,7382,Other: Services - security
+17,Other,7383,7383,Other: Services - news syndicates
+17,Other,7384,7384,Other: Services - photofinishing labs
+17,Other,7385,7385,Other: Services - telephone interconnect systems
+17,Other,7389,7390,Other: Services - Misc business services
+17,Other,7391,7391,Other: Services - R&D labs
+17,Other,7392,7392,Other: Services - management consulting & P.R.
+17,Other,7393,7393,Other: Services - detective and protective (ADT)
+17,Other,7394,7394,Other: Services - equipment rental & leasing
+17,Other,7395,7395,Other: Services - photofinishing labs (School pictures) services
+17,Other,7397,7397,Other: Services - commercial testing labs
+17,Other,7399,7399,Other: Services - business services
+17,Other,7500,7500,"Other: Services - auto repair, services & parking"
+17,Other,7510,7519,"Other: Services - truck, auto, trailer rental and leasing"
+17,Other,7520,7523,Other: Services - automobile parking
+17,Other,7530,7539,Other: Services - automotive repair shops
+17,Other,7540,7549,"Other: Services - automotive services, except repair (car washes)"
+17,Other,7600,7600,Other: Services - Misc repair services
+17,Other,7620,7620,Other: Services - Electrical repair shops
+17,Other,7622,7622,Other: Services - Radio and TV repair shops
+17,Other,7623,7623,Other: Services - Refrigeration and air conditioning service & repair shops
+17,Other,7629,7629,Other: Services - Electrical & electronic repair shops
+17,Other,7630,7631,"Other: Services - Watch, clock and jewelry repair"
+17,Other,7640,7641,Other: Services - Reupholster & furniture repair
+17,Other,7690,7699,Other: Services - Misc repair shops & related services
+17,Other,7800,7829,Other: Services - motion picture production and distribution
+17,Other,7830,7833,Other: Services - motion picture theaters
+17,Other,7840,7841,Other: Services - video rental
+17,Other,7900,7900,Other: Services - amusement and recreation
+17,Other,7910,7911,Other: Services - dance studios
+17,Other,7920,7929,"Other: Services - bands, entertainers"
+17,Other,7930,7933,Other: Services - bowling centers
+17,Other,7940,7949,Other: Services - professional sports
+17,Other,7980,7980,Other: Amusement and recreation services (?)
+17,Other,7990,7999,Other: Services - Misc entertainment
+17,Other,8000,8099,Other: Services - health
+17,Other,8100,8199,Other: Services - legal
+17,Other,8200,8299,Other: Services - educational
+17,Other,8300,8399,Other: Services - social services
+17,Other,8400,8499,"Other: Services - museums, art galleries, botanical and zoological gardens"
+17,Other,8600,8699,Other: Services - membership organizations
+17,Other,8700,8700,"Other: Services - engineering, accounting, research, management"
+17,Other,8710,8713,"Other: Services - engineering, accounting, surveying"
+17,Other,8720,8721,"Other: Services - accounting, auditing, bookkeeping"
+17,Other,8730,8734,"Other: Services - research, development, testing labs"
+17,Other,8740,8748,"Other: Services - management, public relations, consulting"
+17,Other,8800,8899,Other: Services - private households
+17,Other,8900,8910,Other: Services - Misc
+17,Other,8911,8911,Other: Services - Misc engineering & architect
+17,Other,8920,8999,Other: Services - Misc

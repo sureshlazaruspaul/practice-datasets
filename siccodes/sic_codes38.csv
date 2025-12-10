@@ -1,38 +1,38 @@
-group_id,industry_code,industry_name,sic_start,sic_end,sic_description
-1,Agric,"Agriculture, forestry, and fishing",100,999,
-2,Mines,Mining,1000,1299,
-3,Oil,Oil and Gas Extraction,1300,1399,
-4,Stone,Nonmetallic Minerals Except Fuels,1400,1499,
-5,Cnstr,Construction,1500,1799,
-6,Food,Food and Kindred Products,2000,2099,
-7,Smoke,Tobacco Products,2100,2199,
-8,Txtls,Textile Mill Products,2200,2299,
-9,Apprl,Apparel and other Textile Products,2300,2399,
-10,Wood,Lumber and Wood Products,2400,2499,
-11,Chair,Furniture and Fixtures,2500,2599,
-12,Paper,Paper and Allied Products,2600,2661,
-13,Print,Printing and Publishing,2700,2799,
-14,Chems,Chemicals and Allied Products,2800,2899,
-15,Ptrlm,Petroleum and Coal Products,2900,2999,
-16,Rubbr,Rubber and Miscellaneous Plastics Products,3000,3099,
-17,Lethr,Leather and Leather Products,3100,3199,
-18,Glass,"Stone, Clay and Glass Products",3200,3299,
-19,Metal,Primary Metal Industries,3300,3399,
-20,MtlPr,Fabricated Metal Products,3400,3499,
-21,Machn,"Machinery, Except Electrical",3500,3599,
-22,Elctr,Electrical and Electronic Equipment,3600,3699,
-23,Cars,Transportation Equipment,3700,3799,
-24,Instr,Instruments and Related Products,3800,3879,
-25,Manuf,Miscellaneous Manufacturing Industries,3900,3999,
-26,Trans,Transportation,4000,4799,
-27,Phone,Telephone and Telegraph Communication,4800,4829,
-28,TV,Radio and Television Broadcasting,4830,4899,
-29,Utils,"Electric, Gas, and Water Supply",4900,4949,
-30,Garbg,Sanitary Services,4950,4959,
-31,Steam,Steam Supply,4960,4969,
-32,Water,Irrigation Systems,4970,4979,
-33,Whlsl,Wholesale,5000,5199,
-34,Rtail,Retail Stores,5200,5999,
-35,Money,"Finance, Insurance, and Real Estate",6000,6999,
-36,Srvc,Services,7000,8999,
-37,Govt,Public Administration,9000,9999,
+group_id,industry_code,sic_start,sic_end,sic_description
+1,Agric,100,999,"Agriculture, forestry, and fishing:"
+2,Mines,1000,1299,Mining:
+3,Oil,1300,1399,Oil and Gas Extraction:
+4,Stone,1400,1499,Nonmetallic Minerals Except Fuels:
+5,Cnstr,1500,1799,Construction:
+6,Food,2000,2099,Food and Kindred Products:
+7,Smoke,2100,2199,Tobacco Products:
+8,Txtls,2200,2299,Textile Mill Products:
+9,Apprl,2300,2399,Apparel and other Textile Products:
+10,Wood,2400,2499,Lumber and Wood Products:
+11,Chair,2500,2599,Furniture and Fixtures:
+12,Paper,2600,2661,Paper and Allied Products:
+13,Print,2700,2799,Printing and Publishing:
+14,Chems,2800,2899,Chemicals and Allied Products:
+15,Ptrlm,2900,2999,Petroleum and Coal Products:
+16,Rubbr,3000,3099,Rubber and Miscellaneous Plastics Products:
+17,Lethr,3100,3199,Leather and Leather Products:
+18,Glass,3200,3299,"Stone, Clay and Glass Products:"
+19,Metal,3300,3399,Primary Metal Industries:
+20,MtlPr,3400,3499,Fabricated Metal Products:
+21,Machn,3500,3599,"Machinery, Except Electrical:"
+22,Elctr,3600,3699,Electrical and Electronic Equipment:
+23,Cars,3700,3799,Transportation Equipment:
+24,Instr,3800,3879,Instruments and Related Products:
+25,Manuf,3900,3999,Miscellaneous Manufacturing Industries:
+26,Trans,4000,4799,Transportation:
+27,Phone,4800,4829,Telephone and Telegraph Communication:
+28,TV,4830,4899,Radio and Television Broadcasting:
+29,Utils,4900,4949,"Electric, Gas, and Water Supply:"
+30,Garbg,4950,4959,Sanitary Services:
+31,Steam,4960,4969,Steam Supply:
+32,Water,4970,4979,Irrigation Systems:
+33,Whlsl,5000,5199,Wholesale:
+34,Rtail,5200,5999,Retail Stores:
+35,Money,6000,6999,"Finance, Insurance, and Real Estate:"
+36,Srvc,7000,8999,Services:
+37,Govt,9000,9999,Public Administration:

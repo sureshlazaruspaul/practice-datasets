@@ -1,5 +1,6 @@
 import csv
 import re
+import pandas as pd
 from typing import List
 
 
@@ -54,11 +55,66 @@ def write_csv(data: list[dict], output_path: str) -> None:
         writer.writerows(data)
 
 
+
 if __name__ == "__main__":
     classification_list: List[int] = [5, 10, 12, 17, 30, 38, 48, 49]
+
+    # ✅ Convert TXT → CSV once
     for category in classification_list:
         INPUT_FILE = f"Siccodes{category}.txt"
         OUTPUT_FILE = f"sic_codes{category}.csv"
         records = parse_sic_file(INPUT_FILE)
         write_csv(records, OUTPUT_FILE)
         print(f"✅ Converted {len(records)} rows to {OUTPUT_FILE}")
+
+    # ✅ Load all CSVs once
+    category_dfs: dict[int, pd.DataFrame] = {
+        category: pd.read_csv(f"sic_codes{category}.csv")
+        for category in classification_list
+    }
+
+    rows = []
+
+    # ✅ Build ONE row per SIC
+    for industry_index in range(100, 10000):
+        row = {"sic": industry_index}
+
+        # Default descriptions for unmatched categories
+        default_descriptions = {
+            5: "Other -- Mines, Constr, BldMt, Trans, Hotels, Bus Serv, Entertainment, Finance",
+            10: "Other -- Mines, Constr, BldMt, Trans, Hotels, Bus Serv, Entertainment, Finance",
+            12: "Other -- Mines, Constr, BldMt, Trans, Hotels, Bus Serv, Entertainment, Finance",
+            17: "Other",
+            30: "Everything Else",
+            38: "Almost Nothing",
+            48: "Almost Nothing",
+            49: "Almost Nothing"
+        }
+
+        for category, df in category_dfs.items():
+            match = df[(df["sic_start"] <= industry_index) & (df["sic_end"] >= industry_index)]
+            
+            if not match.empty:
+                row[f"sic_ff{category}_group"] = int(match["group_id"].iloc[0])
+                row[f"sic_ff{category}_desc"] = match["sic_description"].iloc[0]
+            elif category in default_descriptions:
+                # Apply default values for unmatched categories
+                row[f"sic_ff{category}_group"] = category
+                row[f"sic_ff{category}_desc"] = default_descriptions[category]
+
+
+
+        rows.append(row)
+
+    # ✅ Final merged dataframe
+    final_df = pd.DataFrame(rows)
+    group_cols = [c for c in final_df.columns if c.endswith("_group")]
+
+    for col in group_cols:
+        final_df[group_cols] = final_df[group_cols].fillna(0).astype(int)
+    
+    final_df = final_df.rename(columns=lambda c: c.replace("_group", ""))
+
+
+    final_df.to_csv("sic_final_crosswalk.csv", index=False)
+    print(f"✅ Final crosswalk written with {len(final_df)} rows")
