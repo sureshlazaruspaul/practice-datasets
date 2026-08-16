@@ -1,0 +1,218 @@
+﻿Ticker,Fund_Name,Alpha,Beta,ExpRatio,Size_M,Category
+QQQ,Invesco QQQ Trust,4.39,1.08,0.2,"301,640",Large Cap Index Funds
+NASDX,Shelton Nasdaq-100 Index Investor,4.34,1.08,0.51,"1,720",Large Cap Index Funds
+IWY,iShares Russell Top 200 Growth ETF,4.32,1.08,0.2,"12,000",Large Cap Index Funds
+URNQX,Victory Nasdaq 100 Index R6,4.29,1.08,0.29,"6,570",Large Cap Index Funds
+GARP,iShares MSCI USA Quality GARP ETF,4.13,1.07,0.15,320,Small/Mid Cap Index Funds
+IRLNX,Voya Russell Large Cap Growth Idx Port I,3.97,1.08,0.43,"1,290",Large Cap Index Funds
+TMFC,Motley Fool 100 ETF,3.94,1.07,0.5,"1,170",Large Cap Index Funds
+IRLSX,Voya Russell Large Cap Growth Idx Port S,3.72,1.08,0.68,"1,290",Large Cap Index Funds
+SCHG,Schwab US Large-Cap Growth ETF™,3.49,1.1,0.04,"35,370",Large Cap Index Funds
+IRLAX,Voya Russell Large Cap Growth Idx Port A,3.45,1.08,0.93,"1,290",Large Cap Index Funds
+FHOFX,Fidelity Series Large Cp Grwth Idx,3.28,1.08,0,"1,590",Large Cap Index Funds
+FSPGX,Fidelity Large Cap Growth Idx,3.24,1.08,0.04,"32,890",Large Cap Index Funds
+VONG,Vanguard Russell 1000 Growth ETF,3.24,1.08,0.07,"33,710",Large Cap Index Funds
+SWLGX,Schwab ® US Large-Cap Growth Idx,3.22,1.08,0.04,"3,060",Large Cap Index Funds
+TILIX,Nuveen Large Cap Gr Idx R6,3.21,1.08,0.05,"14,630",Large Cap Index Funds
+VRGWX,Vanguard Russell 1000 Growth Index I,3.19,1.08,0.06,"33,710",Large Cap Index Funds
+TRIHX,Nuveen Large Cap Gr Idx I,3.1,1.08,0.16,"14,630",Large Cap Index Funds
+IWF,iShares Russell 1000 Growth ETF,3.09,1.08,0.19,"97,610",Large Cap Index Funds
+TRIRX,Nuveen Large Cap Gr Idx Retire,2.95,1.08,0.3,"14,630",Large Cap Index Funds
+CGJIX,Calvert US Large Cap Growth Rspnb Idx I,2.36,1.04,0.24,714,Small/Mid Cap Index Funds
+CGJAX,Calvert US Large Cap Growth Rspnb Idx A,2.09,1.04,0.49,714,Small/Mid Cap Index Funds
+SCHX,Schwab US Large-Cap ETF™,1.59,0.99,0.03,"50,550",Large Cap Index Funds
+SCHB,Schwab US Broad Market ETF™,1.49,0.99,0.03,"31,150",Large Cap Index Funds
+TCEPX,Nuveen Equity Index Premier,-0.48,1,0.2,"47,640",Large Cap Index Funds
+BASMX,iShares Total US Stock Market Idx Inv A,-0.57,1,0.33,"3,700",Large Cap Index Funds
+TIQRX,Nuveen Equity Index R,-0.59,1,0.3,"47,640",Large Cap Index Funds
+TINRX,Nuveen Equity Index A,-0.61,1,0.37,"47,640",Large Cap Index Funds
+POMIX,T. Rowe Price Total Equity Market Idx,-0.64,1,0.18,"2,750",Large Cap Index Funds
+WFIVX,FT Wilshire 5000 Index Invmt,-0.66,0.98,0.6,269,Small/Mid Cap Index Funds
+NCGFX,New Covenant Growth,-0.83,1,0.72,488,Small/Mid Cap Index Funds
+TILT,FlexShares Mstar US Mkt Factors Tilt ETF,-0.93,1.03,0.25,"1,640",Large Cap Index Funds
+PSICX,PGIM Quant Solutions Large-Cap Index C,-1.06,0.99,1.26,843,Small/Mid Cap Index Funds
+MXCCX,Federated Hermes Max-Cap Index C,-1.09,0.98,1.45,222,Small/Mid Cap Index Funds
+SXPCX,DWS S&P 500 Index C,-1.09,0.99,1.26,"1,320",Large Cap Index Funds
+WFINX,Allspring Index C,-1.09,0.99,1.19,"1,260",Large Cap Index Funds
+SPICX,Invesco S&P 500 Index C,-1.1,0.99,1.29,"3,370",Large Cap Index Funds
+RYSPX,Rydex S&P 500 H,-1.51,0.99,1.61,179,Small/Mid Cap Index Funds
+RYSOX,Rydex S&P 500 A,-1.52,0.99,1.61,179,Small/Mid Cap Index Funds
+KRMA,Global X Conscious Companies ETF,-2.18,1.01,0.43,599,Small/Mid Cap Index Funds
+RYSYX,Rydex S&P 500 C,-2.25,0.98,2.37,179,Small/Mid Cap Index Funds
+SPXT,ProShares S&P 500® ex-Technology,-2.39,0.92,0.09,194,Small/Mid Cap Index Funds
+SPSM,SPDR® Portfolio S&P 600™ Sm Cap ETF,-2.42,0.98,0.03,"11,110",Large Cap Index Funds
+VIOO,Vanguard S&P Small-Cap 600 ETF,-2.47,0.98,0.07,"4,550",Large Cap Index Funds
+VTSIX,Vanguard Tax-Managed Small Cap I,-2.47,0.97,0.06,"9,160",Large Cap Index Funds
+VTMSX,Vanguard Tax-Managed Small Cap Adm,-2.5,0.97,0.09,"9,160",Large Cap Index Funds
+VSMSX,Vanguard S&P Small-Cap 600 Index I,-2.52,0.98,0.03,"4,550",Large Cap Index Funds
+IJS,iShares S&P Small-Cap 600 Value ETF,-2.52,1,0.18,"6,540",Large Cap Index Funds
+IJR,iShares Core S&P Small-Cap ETF,-2.54,0.98,0.06,"79,520",Large Cap Index Funds
+ESML,iShares ESG Aware MSCI USA Small-Cap ETF,-2.55,1.02,0.17,"1,780",Large Cap Index Funds
+DISIX,BNY Mellon Small Cap Stock Index I,-2.58,0.97,0.25,893,Small/Mid Cap Index Funds
+PSPIX,Principal SmallCap S&P 600 Index R6,-2.63,0.98,0.16,"1,300",Large Cap Index Funds
+CSPYX,Columbia Small Cap Index Inst3,-2.67,0.98,0.2,"2,600",Large Cap Index Funds
+PSSIX,Principal SmallCap S&P 600 Index Inst,-2.68,0.98,0.21,"1,300",Large Cap Index Funds
+CXXRX,Columbia Small Cap Index Inst2,-2.68,0.98,0.2,"2,600",Large Cap Index Funds
+NMSCX,Columbia Small Cap Index Inst,-2.69,0.98,0.2,"2,600",Large Cap Index Funds
+MASOX,MoA Small Cap Equity Index Fund,-2.75,0.96,0.15,190,Small/Mid Cap Index Funds
+SIZE,iShares MSCI USA Size Factor ETF,-2.81,1.02,0.15,307,Small/Mid Cap Index Funds
+DISSX,BNY Mellon Small Cap Stock Index Inv,-2.82,0.97,0.5,893,Small/Mid Cap Index Funds
+SCHA,Schwab US Small-Cap ETF™,-2.83,1.03,0.04,"16,250",Large Cap Index Funds
+QDF,FlexShares Quality Dividend ETF,-2.83,0.94,0.37,"1,760",Large Cap Index Funds
+MXISX,Empower S&P SmallCap 600® Index Inv,-2.85,0.97,0.56,"1,050",Large Cap Index Funds
+GSEW,Goldman Sachs Equal Wght US Lg Cp Eq ETF,-2.85,1.01,0.09,"1,180",Large Cap Index Funds
+SMCIX,Shelton S&P Smallcap Index Investor,-2.85,0.98,0.88,48,Small/Mid Cap Index Funds
+PSSJX,Principal SmallCap S&P 600 Index J,-2.87,0.98,0.4,"1,300",Large Cap Index Funds
+PSSPX,Principal SmallCap S&P 600 Index R5,-2.88,0.98,0.42,"1,300",Large Cap Index Funds
+NMSAX,Columbia Small Cap Index A,-2.94,0.98,0.45,"2,600",Large Cap Index Funds
+VSMAX,Vanguard Small Cap Index Admiral Shares,-2.94,1.04,0.05,"153,450",Large Cap Index Funds
+NAESX,Vanguard Small Cap Index Inv,-2.98,1.03,0.17,"153,450",Large Cap Index Funds
+NUSC,Nuveen ESG Small-Cap ETF,-2.99,1.01,0.31,"1,130",Large Cap Index Funds
+CHGX,AXS Change Finance ESG ETF,-3.03,1.03,0.49,127,Small/Mid Cap Index Funds
+VADAX,Invesco Equally-Wtd S&P 500 A,-3.04,1,0.53,"6,680",Large Cap Index Funds
+MXNSX,Empower S&P SmallCap 600® Index L,-3.06,0.97,0.81,"1,050",Large Cap Index Funds
+MMSIX,Praxis Small Cap Index I,-3.1,0.98,0.44,173,Small/Mid Cap Index Funds
+FZIPX,Fidelity ZERO Extended Market Index,-3.16,1.05,0,"1,790",Large Cap Index Funds
+PSSMX,Principal SmallCap S&P 600 Index R3,-3.19,0.98,0.73,"1,300",Large Cap Index Funds
+BSMKX,iShares Russell Small/Mid-Cap Idx K,-3.21,1.02,0.07,793,Small/Mid Cap Index Funds
+FLAPX,Fidelity Flex Mid Cap Index,-3.22,1.04,0,488,Small/Mid Cap Index Funds
+SMMD,iShares Russell 2500 ETF,-3.23,1.03,0.15,"1,320",Large Cap Index Funds
+BRMKX,iShares Russell Mid-Cap Index K,-3.24,1.04,0.04,"1,990",Large Cap Index Funds
+RAFE,PIMCO RAFI ESG US ETF,-3.24,0.94,0.29,80,Small/Mid Cap Index Funds
+BSMIX,iShares Russell Small/Mid-Cap Idx Instl,-3.26,1.02,0.12,793,Small/Mid Cap Index Funds
+FSMDX,Fidelity Mid Cap Index,-3.27,1.04,0.03,"38,340",Large Cap Index Funds
+BRMIX,iShares Russell Mid-Cap Index Instl,-3.28,1.03,0.09,"1,990",Large Cap Index Funds
+VADRX,Invesco Equally-Wtd S&P 500 R,-3.29,1,0.78,"6,680",Large Cap Index Funds
+VRTVX,Vanguard Russell 2000 Value Index I,-3.29,1,0.07,885,Small/Mid Cap Index Funds
+EUSA,iShares MSCI USA Equal Weighted ETF,-3.3,1.03,0.09,"1,210",Large Cap Index Funds
+FISVX,Fidelity Small Cap Value Index,-3.31,1,0.05,"1,350",Large Cap Index Funds
+VO,Vanguard Mid-Cap ETF,-3.32,1.03,0.04,"181,840",Large Cap Index Funds
+VTWV,Vanguard Russell 2000 Value ETF,-3.33,1,0.1,885,Small/Mid Cap Index Funds
+SWMCX,Schwab ® US Mid-Cap Index,-3.33,1.04,0.04,"1,770",Large Cap Index Funds
+SMLKX,Shelton S&P Smallcap Index K,-3.34,0.98,1.41,48,Small/Mid Cap Index Funds
+JHSC,JHancock Multifactor Small Cap ETF,-3.38,1.01,0.42,490,Small/Mid Cap Index Funds
+CMJAX,Calvert US Mid Cap Core Rspnb Idx A,-3.41,1,0.49,469,Small/Mid Cap Index Funds
+VMCIX,Vanguard Mid Cap Index Institutional,-3.42,1.03,0.04,"181,840",Large Cap Index Funds
+IWR,iShares Russell Mid-Cap ETF,-3.42,1.04,0.19,"38,360",Large Cap Index Funds
+VMCPX,Vanguard Mid Cap Index InstitutionalPlus,-3.44,1.03,0.03,"181,840",Large Cap Index Funds
+FLXSX,Fidelity Flex Small Cap Index,-3.46,1,0,438,Small/Mid Cap Index Funds
+VIMAX,Vanguard Mid Cap Index Admiral,-3.46,1.03,0.05,"181,840",Large Cap Index Funds
+IWN,iShares Russell 2000 Value ETF,-3.49,1,0.24,"11,250",Large Cap Index Funds
+BSMAX,iShares Russell Small/Mid-Cap Idx Inv A,-3.49,1.02,0.37,793,Small/Mid Cap Index Funds
+TISBX,Nuveen Small Cap Blend Idx R6,-3.49,1.01,0.06,"3,260",Large Cap Index Funds
+VTWO,Vanguard Russell 2000 ETF,-3.49,1.01,0.07,"11,870",Large Cap Index Funds
+GMRIX,Nationwide Small Cap Index R6,-3.49,1,0.26,215,Small/Mid Cap Index Funds
+FSSNX,Fidelity Small Cap Index,-3.5,1.01,0.03,"25,760",Large Cap Index Funds
+ISCV,iShares Morningstar Small-Cap Value ETF,-3.51,1.1,0.06,421,Small/Mid Cap Index Funds
+VRTIX,Vanguard Russell 2000 Index I,-3.52,1.01,0.07,"11,870",Large Cap Index Funds
+MIDKX,Shelton S&P Midcap Index K,-3.52,1.01,1.14,102,Small/Mid Cap Index Funds
+IWX,iShares Russell Top 200 Value ETF,-3.54,0.85,0.2,"3,070",Large Cap Index Funds
+VIMSX,Vanguard Mid Cap Index Investor,-3.54,1.03,0.17,"181,840",Large Cap Index Funds
+SWSSX,Schwab Small Cap Index,-3.55,1.01,0.04,"6,010",Large Cap Index Funds
+BRMAX,iShares Russell Mid-Cap Index Inv A,-3.57,1.04,0.36,"1,990",Large Cap Index Funds
+CFJIX,Calvert US Large Cap Value Rspnb Idx I,-3.57,0.91,0.24,"1,850",Large Cap Index Funds
+BDBKX,iShares Russell 2000 Small-Cap Idx K,-3.57,1,0.07,"2,620",Large Cap Index Funds
+MASKX,iShares Russell 2000 Small-Cap Idx Instl,-3.63,1.01,0.12,"2,620",Large Cap Index Funds
+TRHBX,Nuveen Small Cap Blend Idx I,-3.64,1,0.24,"3,260",Large Cap Index Funds
+QDIV,Global X S&P 500® Quality Dividend ETF,-3.66,0.9,0.2,31,Small/Mid Cap Index Funds
+NSIDX,Northern Small Cap Index,-3.67,1,0.1,"1,160",Large Cap Index Funds
+IWM,iShares Russell 2000 ETF,-3.68,1.01,0.19,"65,120",Large Cap Index Funds
+MMSCX,Praxis Small Cap Index A,-3.7,0.98,1.12,173,Small/Mid Cap Index Funds
+FIOOX,Fidelity Series Large Cap Value Index,-3.71,0.92,0,"8,500",Large Cap Index Funds
+IRVIX,Voya Russell Large Cap Value Idx Port I,-3.71,0.85,0.34,267,Small/Mid Cap Index Funds
+FLCOX,Fidelity Large Cap Value Index,-3.72,0.91,0.04,"11,190",Large Cap Index Funds
+TRBIX,Nuveen Small Cap Blend Idx Retire,-3.74,1,0.31,"3,260",Large Cap Index Funds
+TILVX,Nuveen Large Cap Value Idx R6,-3.74,0.91,0.05,"10,570",Large Cap Index Funds
+NWXRX,Nationwide Small Cap Index Instl Svc,-3.75,1.01,0.51,215,Small/Mid Cap Index Funds
+VADCX,Invesco Equally-Wtd S&P 500 C,-3.75,1,1.27,"6,680",Large Cap Index Funds
+VONV,Vanguard Russell 1000 Value ETF,-3.76,0.91,0.07,"12,710",Large Cap Index Funds
+IIRMX,Voya Russell Mid Cap Index Port I,-3.78,1.04,0.4,921,Small/Mid Cap Index Funds
+VCSLX,VALIC Company I Small Cap Index,-3.79,1,0.37,"1,010",Large Cap Index Funds
+SHE,SPDR® MSCI USA Gender Diversity ETF,-3.79,1.01,0.2,244,Small/Mid Cap Index Funds
+VRVIX,Vanguard Russell 1000 Value Index I,-3.79,0.92,0.06,"12,710",Large Cap Index Funds
+CFJAX,Calvert US Large Cap Value Rspnb Idx A,-3.8,0.91,0.49,"1,850",Large Cap Index Funds
+LVPIX,ProFunds Large Cap Value Inv,-3.8,0.89,1.78,53,Small/Mid Cap Index Funds
+SWLVX,Schwab ® US Large-Cap Value Index,-3.82,0.92,0.04,806,Small/Mid Cap Index Funds
+VOE,Vanguard Mid-Cap Value ETF,-3.82,0.99,0.07,"30,850",Large Cap Index Funds
+IMCB,iShares Morningstar Mid-Cap ETF,-3.86,1.02,0.04,995,Small/Mid Cap Index Funds
+IWD,iShares Russell 1000 Value ETF,-3.86,0.91,0.19,"61,420",Large Cap Index Funds
+THCVX,Nuveen Large Cap Value Idx I,-3.87,0.91,0.17,"10,570",Large Cap Index Funds
+BDBPX,iShares Russell 2000 Small-Cap Idx Inv P,-3.87,1.01,0.37,"2,620",Large Cap Index Funds
+GMRAX,Nationwide Small Cap Index A,-3.88,1.01,0.68,215,Small/Mid Cap Index Funds
+MDSKX,iShares Russell 2000 Small-Cap Idx Inv A,-3.88,1.01,0.37,"2,620",Large Cap Index Funds
+VMVAX,Vanguard Mid-Cap Value Index Admiral,-3.88,0.99,0.07,"30,850",Large Cap Index Funds
+SPDV,AAM S&P 500 High Dividend Value ETF,-3.93,0.9,0.29,68,Small/Mid Cap Index Funds
+EQAL,Invesco Russell 1000 Equal Weight ETF,-3.94,1.03,0.2,610,Small/Mid Cap Index Funds
+IIRSX,Voya Russell Small Cap Index Port I,-3.94,1.01,0.45,511,Small/Mid Cap Index Funds
+IRVSX,Voya Russell Large Cap Value Idx Port S,-3.96,0.85,0.59,267,Small/Mid Cap Index Funds
+TRCVX,Nuveen Large Cap Value Idx Retire,-3.96,0.91,0.3,"10,570",Large Cap Index Funds
+VMVIX,Vanguard Mid-Cap Value Index Investor,-3.98,0.99,0.19,"30,850",Large Cap Index Funds
+BIBL,Inspire 100 ETF,-4.01,1.02,0.35,302,Small/Mid Cap Index Funds
+DES,WisdomTree US SmallCap Dividend ETF,-4.02,0.97,0.38,"1,880",Large Cap Index Funds
+VRTGX,Vanguard Russell 2000 Growth Index I,-4.04,1.02,0.07,"1,210",Large Cap Index Funds
+SVPIX,ProFunds Small Cap Value Inv,-4.05,1,1.78,2,Small/Mid Cap Index Funds
+FECGX,Fidelity Small Cap Growth Index,-4.05,1.01,0.05,833,Small/Mid Cap Index Funds
+IRMCX,Voya Russell Mid Cap Index Port S,-4.06,1.04,0.65,921,Small/Mid Cap Index Funds
+VTWG,Vanguard Russell 2000 Growth ETF,-4.12,1.02,0.1,"1,210",Large Cap Index Funds
+FTA,First Trust Large Cap Val AlphaDEX® ETF,-4.14,1.01,0.58,"1,130",Large Cap Index Funds
+VSGIX,Vanguard Small Cap Growth Index I,-4.18,1.04,0.06,"36,810",Large Cap Index Funds
+IMCV,iShares Morningstar Mid-Cap Value ETF,-4.19,1.02,0.06,633,Small/Mid Cap Index Funds
+IRMTX,Voya Russell Mid Cap Index Port S2,-4.19,1.04,0.8,921,Small/Mid Cap Index Funds
+IRVAX,Voya Russell Large Cap Value Idx Port A,-4.2,0.85,0.84,267,Small/Mid Cap Index Funds
+IRSSX,Voya Russell Small Cap Index Port S,-4.21,1.01,0.7,511,Small/Mid Cap Index Funds
+IWO,iShares Russell 2000 Growth ETF,-4.21,1.02,0.24,"11,110",Large Cap Index Funds
+RYDAX,Rydex Dow Jones Industrial Average® A,-4.24,0.92,1.64,23,Small/Mid Cap Index Funds
+RYDHX,Rydex Dow Jones Industrial Average® H,-4.25,0.92,1.64,23,Small/Mid Cap Index Funds
+GMSRX,Nationwide Small Cap Index R,-4.25,1.01,1.01,215,Small/Mid Cap Index Funds
+SPVM,Invesco S&P 500 Value with Momentum ETF,-4.27,0.98,0.39,49,Small/Mid Cap Index Funds
+IRMAX,Voya Russell Mid Cap Index Port A,-4.28,1.04,0.9,921,Small/Mid Cap Index Funds
+VSGAX,Vanguard Small Cap Growth Index Admiral,-4.29,1.04,0.07,"36,810",Large Cap Index Funds
+MDPIX,ProFunds Mid Cap Inv,-4.31,1.02,1.78,6,Small/Mid Cap Index Funds
+VBK,Vanguard Small-Cap Growth ETF,-4.31,1.05,0.07,"36,810",Large Cap Index Funds
+VISGX,Vanguard Small Cap Growth Index Inv,-4.31,1.04,0.19,"36,810",Large Cap Index Funds
+IRCIX,Voya Russell Small Cap Index Port S2,-4.32,1.01,0.85,511,Small/Mid Cap Index Funds
+FIMVX,Fidelity Mid Cap Value Index,-4.33,1.03,0.06,977,Small/Mid Cap Index Funds
+RPV,Invesco S&P 500® Pure Value ETF,-4.38,1.07,0.35,"1,330",Large Cap Index Funds
+IRSIX,Voya Russell Small Cap Index Port A,-4.42,1,0.95,511,Small/Mid Cap Index Funds
+IWS,iShares Russell Mid-Cap Value ETF,-4.45,1.03,0.23,"13,250",Large Cap Index Funds
+SGPIX,ProFunds Small Cap Growth Inv,-4.48,0.97,1.78,4,Small/Mid Cap Index Funds
+MGPIX,ProFunds Mid Cap Growth Inv,-4.58,1.02,1.78,4,Small/Mid Cap Index Funds
+FVD,First Trust Value Line® Dividend ETF,-4.69,0.77,0.6,"9,180",Large Cap Index Funds
+SFYX,SoFi Next 500 ETF,-4.7,1.05,0.06,25,Small/Mid Cap Index Funds
+MLPSX,ProFunds Mid Cap Value Svc,-4.73,1.04,2.78,3,Small/Mid Cap Index Funds
+SPYD,SPDR® Portfolio S&P 500® High Div ETF,-4.76,0.94,0.07,"6,890",Large Cap Index Funds
+LVPSX,ProFunds Large Cap Value Svc,-4.77,0.89,2.78,53,Small/Mid Cap Index Funds
+SPVU,Invesco S&P 500® Enhanced Value ETF,-4.83,1.05,0.13,95,Small/Mid Cap Index Funds
+ETHO,Amplify Etho Climate Leadership U.S. ETF,-4.84,1.04,0.45,157,Small/Mid Cap Index Funds
+GURU,Global X Guru™ ETF,-4.89,1,0.75,45,Small/Mid Cap Index Funds
+SMMV,iShares MSCI USA Sm-Cp Min Vol Fctr ETF,-4.93,0.74,0.2,284,Small/Mid Cap Index Funds
+RYDKX,Rydex Dow Jones Industrial Average® C,-4.96,0.92,2.39,23,Small/Mid Cap Index Funds
+SVPSX,ProFunds Small Cap Value Svc,-5.01,1,2.78,2,Small/Mid Cap Index Funds
+RYRHX,Rydex Russell 2000 H,-5.1,1.01,1.63,12,Small/Mid Cap Index Funds
+RYRRX,Rydex Russell 2000 A,-5.11,1.01,1.62,12,Small/Mid Cap Index Funds
+MDPSX,ProFunds Mid Cap Svc,-5.26,1.02,2.78,6,Small/Mid Cap Index Funds
+DURA,VanEck Durable High Dividend ETF,-5.26,0.71,0.3,62,Small/Mid Cap Index Funds
+SGPSX,ProFunds Small Cap Growth Svc,-5.42,0.97,2.78,4,Small/Mid Cap Index Funds
+MGPSX,ProFunds Mid Cap Growth Svc,-5.52,1.02,2.78,4,Small/Mid Cap Index Funds
+RYZAX,Rydex S&P 500 Pure Value H,-5.52,1.06,1.56,96,Small/Mid Cap Index Funds
+ISCB,iShares Morningstar Small-Cap ETF,-5.52,1.04,0.04,216,Small/Mid Cap Index Funds
+RYLVX,Rydex S&P 500 Pure Value A,-5.52,1.06,1.55,96,Small/Mid Cap Index Funds
+VLUE,iShares MSCI USA Value Factor ETF,-5.7,0.95,0.15,"6,820",Large Cap Index Funds
+NULV,Nuveen ESG Large-Cap Value ETF,-5.72,0.9,0.26,"1,660",Large Cap Index Funds
+SLPIX,ProFunds Small Cap Inv,-5.81,1.01,1.78,9,Small/Mid Cap Index Funds
+RYROX,Rydex Russell 2000 C,-5.82,1.01,2.38,12,Small/Mid Cap Index Funds
+TMDV,ProShares Russell US Dividend Grwr ETF,-5.88,0.81,0.35,5,Small/Mid Cap Index Funds
+XMLV,Invesco S&P MidCap Low Volatility ETF,-5.9,0.77,0.25,783,Small/Mid Cap Index Funds
+NUMV,Nuveen ESG Mid-Cap Value ETF,-5.95,1.03,0.31,354,Small/Mid Cap Index Funds
+RZG,Invesco S&P SmallCap 600® Pure Gr ETF,-6.04,1.13,0.35,104,Small/Mid Cap Index Funds
+RYVVX,Rydex S&P 500 Pure Value C,-6.22,1.06,2.31,96,Small/Mid Cap Index Funds
+DEEP,Acquirers Deep Value ETF,-6.62,1.01,0.8,26,Small/Mid Cap Index Funds
+SLPSX,ProFunds Small Cap Svc,-6.75,1.01,2.78,9,Small/Mid Cap Index Funds
+RYSGX,Rydex S&P SmallCap 600 Pure Growth A,-7.25,1.1,1.55,3,Small/Mid Cap Index Funds
+RYWAX,Rydex S&P SmallCap 600 Pure Growth H,-7.29,1.1,1.55,3,Small/Mid Cap Index Funds
+SZNE,Pacer CFRA-Stovall Eq WghtSeasnlRottnETF,-7.6,0.98,0.6,23,Small/Mid Cap Index Funds
+RYWCX,Rydex S&P SmallCap 600 Pure Growth C,-8.01,1.1,2.3,3,Small/Mid Cap Index Funds
+XSLV,Invesco S&P SmallCap Low Volatility ETF,-8.17,0.8,0.25,280,Small/Mid Cap Index Funds
+DIV,Global X SuperDividend™ US ETF,-9.6,0.98,0.45,653,Small/Mid Cap Index Funds
+XSHD,Invesco S&P SmallCap Hi Div Low Vol ETF,-13.87,1.03,0.3,67,Small/Mid Cap Index Funds
+FFTY,Innovator IBD® 50 ETF,-14.64,1.13,0.8,67,Small/Mid Cap Index Funds
